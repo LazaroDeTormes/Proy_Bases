@@ -1,0 +1,1791 @@
+grinning face,[U+1F600],face positive,smileys and people
+grinning face with smiling eyes,[U+1F601],face positive,smileys and people
+face with tears of joy,[U+1F602],face positive,smileys and people
+rolling on the floor laughing,[U+1F923],face positive,smileys and people
+smiling face with open mouth,[U+1F603],face positive,smileys and people
+smiling face with open mouth and smiling eyes ,[U+1F604],face positive,smileys and people
+smiling face with open mouth and cold sweat ,[U+1F605],face positive,smileys and people
+smiling face with open mouth and tightly-closed eyes ,[U+1F606],face positive,smileys and people
+winking face,[U+1F609],face positive,smileys and people
+smiling face with smiling eyes,[U+1F60A],face positive,smileys and people
+face savouring delicious food,[U+1F60B],face positive,smileys and people
+smiling face with sunglasses,[U+1F60E],face positive,smileys and people
+smiling face with heart-shaped eyes ,[U+1F60D],face positive,smileys and people
+face throwing a kiss,[U+1F618],face positive,smileys and people
+kissing face,[U+1F617],face positive,smileys and people
+kissing face with smiling eyes,[U+1F619],face positive,smileys and people
+kissing face with closed eyes,[U+1F61A],face positive,smileys and people
+white smiling face ,[U+263A],face positive,smileys and people
+slightly smiling face,[U+1F642],face positive,smileys and people
+hugging face,[U+1F917],face positive,smileys and people
+thinking face,[U+1F914],face neutral,smileys and people
+neutral face,[U+1F610],face neutral,smileys and people
+expressionless face,[U+1F611],face neutral,smileys and people
+face without mouth,[U+1F636],face neutral,smileys and people
+face with rolling eyes,[U+1F644],face neutral,smileys and people
+smirking face,[U+1F60F],face neutral,smileys and people
+persevering face,[U+1F623],face neutral,smileys and people
+disappointed but relieved face,[U+1F625],face neutral,smileys and people
+face with open mouth,[U+1F62E],face neutral,smileys and people
+zipper-mouth face,[U+1F910],face neutral,smileys and people
+hushed face,[U+1F62F],face neutral,smileys and people
+sleepy face,[U+1F62A],face neutral,smileys and people
+tired face,[U+1F62B],face neutral,smileys and people
+sleeping face,[U+1F634],face neutral,smileys and people
+relieved face,[U+1F60C],face neutral,smileys and people
+nerd face,[U+1F913],face neutral,smileys and people
+face with stuck-out tongue,[U+1F61B],face neutral,smileys and people
+face with stuck-out tongue and winking eye ,[U+1F61C],face neutral,smileys and people
+face with stuck-out tongue and tightly-closed eyes ,[U+1F61D],face neutral,smileys and people
+drooling face,[U+1F924],face neutral,smileys and people
+unamused face,[U+1F612],face neutral,smileys and people
+face with cold sweat,[U+1F613],face neutral,smileys and people
+pensive face,[U+1F614],face neutral,smileys and people
+confused face,[U+1F615],face neutral,smileys and people
+upside-down face,[U+1F643],face neutral,smileys and people
+money-mouth face,[U+1F911],face neutral,smileys and people
+astonished face,[U+1F632],face neutral,smileys and people
+white frowning face ,[U+2639],face negative,smileys and people
+slightly frowning face,[U+1F641],face negative,smileys and people
+confounded face,[U+1F616],face negative,smileys and people
+disappointed face,[U+1F61E],face negative,smileys and people
+worried face,[U+1F61F],face negative,smileys and people
+face with look of triumph ,[U+1F624],face negative,smileys and people
+crying face,[U+1F622],face negative,smileys and people
+loudly crying face,[U+1F62D],face negative,smileys and people
+frowning face with open mouth,[U+1F626],face negative,smileys and people
+anguished face,[U+1F627],face negative,smileys and people
+fearful face,[U+1F628],face negative,smileys and people
+weary face,[U+1F629],face negative,smileys and people
+grimacing face,[U+1F62C],face negative,smileys and people
+face with open mouth and cold sweat ,[U+1F630],face negative,smileys and people
+face screaming in fear,[U+1F631],face negative,smileys and people
+flushed face,[U+1F633],face negative,smileys and people
+dizzy face,[U+1F635],face negative,smileys and people
+pouting face,[U+1F621],face negative,smileys and people
+angry face,[U+1F620],face negative,smileys and people
+smiling face with halo,[U+1F607],face role,smileys and people
+face with cowboy hat ,[U+1F920],face role,smileys and people
+clown face,[U+1F921],face role,smileys and people
+lying face,[U+1F925],face role,smileys and people
+face with medical mask,[U+1F637],face sick,smileys and people
+face with thermometer,[U+1F912],face sick,smileys and people
+face with head-bandage,[U+1F915],face sick,smileys and people
+nauseated face,[U+1F922],face sick,smileys and people
+sneezing face,[U+1F927],face sick,smileys and people
+smiling face with horns,[U+1F608],creature face,smileys and people
+imp,[U+1F47F],creature face,smileys and people
+japanese ogre ,[U+1F479],creature face,smileys and people
+japanese goblin ,[U+1F47A],creature face,smileys and people
+skull,[U+1F480],creature face,smileys and people
+skull and crossbones,[U+2620],creature face,smileys and people
+ghost,[U+1F47B],creature face,smileys and people
+extraterrestrial alien ,[U+1F47D],creature face,smileys and people
+alien monster,[U+1F47E],creature face,smileys and people
+robot face,[U+1F916],creature face,smileys and people
+pile of poo,[U+1F4A9],creature face,smileys and people
+smiling cat face with open mouth,[U+1F63A],cat face,smileys and people
+grinning cat face with smiling eyes,[U+1F638],cat face,smileys and people
+cat face with tears of joy,[U+1F639],cat face,smileys and people
+smiling cat face with heart-shaped eyes ,[U+1F63B],cat face,smileys and people
+cat face with wry smile,[U+1F63C],cat face,smileys and people
+kissing cat face with closed eyes,[U+1F63D],cat face,smileys and people
+weary cat face,[U+1F640],cat face,smileys and people
+crying cat face,[U+1F63F],cat face,smileys and people
+pouting cat face,[U+1F63E],cat face,smileys and people
+see-no-evil monkey ,[U+1F648],monkey face,smileys and people
+hear-no-evil monkey ,[U+1F649],monkey face,smileys and people
+speak-no-evil monkey ,[U+1F64A],monkey face,smileys and people
+boy,[U+1F466],person,smileys and people
+boy, type-1-2,[U+1F466, U+1F3FB],person,smileys and people
+boy, type-3,[U+1F466, U+1F3FC],person,smileys and people
+boy, type-4,[U+1F466, U+1F3FD],person,smileys and people
+boy, type-5,[U+1F466, U+1F3FE],person,smileys and people
+boy, type-6,[U+1F466, U+1F3FF],person,smileys and people
+girl,[U+1F467],person,smileys and people
+girl, type-1-2,[U+1F467, U+1F3FB],person,smileys and people
+girl, type-3,[U+1F467, U+1F3FC],person,smileys and people
+girl, type-4,[U+1F467, U+1F3FD],person,smileys and people
+girl, type-5,[U+1F467, U+1F3FE],person,smileys and people
+girl, type-6,[U+1F467, U+1F3FF],person,smileys and people
+man,[U+1F468],person,smileys and people
+man, type-1-2,[U+1F468, U+1F3FB],person,smileys and people
+man, type-3,[U+1F468, U+1F3FC],person,smileys and people
+man, type-4,[U+1F468, U+1F3FD],person,smileys and people
+man, type-5,[U+1F468, U+1F3FE],person,smileys and people
+man, type-6,[U+1F468, U+1F3FF],person,smileys and people
+woman,[U+1F469],person,smileys and people
+woman, type-1-2,[U+1F469, U+1F3FB],person,smileys and people
+woman, type-3,[U+1F469, U+1F3FC],person,smileys and people
+woman, type-4,[U+1F469, U+1F3FD],person,smileys and people
+woman, type-5,[U+1F469, U+1F3FE],person,smileys and people
+woman, type-6,[U+1F469, U+1F3FF],person,smileys and people
+older man ,[U+1F474],person,smileys and people
+old man, type-1-2,[U+1F474, U+1F3FB],person,smileys and people
+old man, type-3,[U+1F474, U+1F3FC],person,smileys and people
+old man, type-4,[U+1F474, U+1F3FD],person,smileys and people
+old man, type-5,[U+1F474, U+1F3FE],person,smileys and people
+old man, type-6,[U+1F474, U+1F3FF],person,smileys and people
+older woman ,[U+1F475],person,smileys and people
+old woman, type-1-2,[U+1F475, U+1F3FB],person,smileys and people
+old woman, type-3,[U+1F475, U+1F3FC],person,smileys and people
+old woman, type-4,[U+1F475, U+1F3FD],person,smileys and people
+old woman, type-5,[U+1F475, U+1F3FE],person,smileys and people
+old woman, type-6,[U+1F475, U+1F3FF],person,smileys and people
+baby,[U+1F476],person,smileys and people
+baby, type-1-2,[U+1F476, U+1F3FB],person,smileys and people
+baby, type-3,[U+1F476, U+1F3FC],person,smileys and people
+baby, type-4,[U+1F476, U+1F3FD],person,smileys and people
+baby, type-5,[U+1F476, U+1F3FE],person,smileys and people
+baby, type-6,[U+1F476, U+1F3FF],person,smileys and people
+baby angel,[U+1F47C],person,smileys and people
+baby angel, type-1-2,[U+1F47C, U+1F3FB],person,smileys and people
+baby angel, type-3,[U+1F47C, U+1F3FC],person,smileys and people
+baby angel, type-4,[U+1F47C, U+1F3FD],person,smileys and people
+baby angel, type-5,[U+1F47C, U+1F3FE],person,smileys and people
+baby angel, type-6,[U+1F47C, U+1F3FF],person,smileys and people
+police officer,[U+1F46E],person role,smileys and people
+police officer, type-1-2,[U+1F46E, U+1F3FB],person role,smileys and people
+police officer, type-3,[U+1F46E, U+1F3FC],person role,smileys and people
+police officer, type-4,[U+1F46E, U+1F3FD],person role,smileys and people
+police officer, type-5,[U+1F46E, U+1F3FE],person role,smileys and people
+police officer, type-6,[U+1F46E, U+1F3FF],person role,smileys and people
+sleuth or spy ,[U+1F575],person role,smileys and people
+detective, type-1-2,[U+1F575, U+1F3FB],person role,smileys and people
+detective, type-3,[U+1F575, U+1F3FC],person role,smileys and people
+detective, type-4,[U+1F575, U+1F3FD],person role,smileys and people
+detective, type-5,[U+1F575, U+1F3FE],person role,smileys and people
+detective, type-6,[U+1F575, U+1F3FF],person role,smileys and people
+guardsman,[U+1F482],person role,smileys and people
+guardsman, type-1-2,[U+1F482, U+1F3FB],person role,smileys and people
+guardsman, type-3,[U+1F482, U+1F3FC],person role,smileys and people
+guardsman, type-4,[U+1F482, U+1F3FD],person role,smileys and people
+guardsman, type-5,[U+1F482, U+1F3FE],person role,smileys and people
+guardsman, type-6,[U+1F482, U+1F3FF],person role,smileys and people
+construction worker,[U+1F477],person role,smileys and people
+construction worker, type-1-2,[U+1F477, U+1F3FB],person role,smileys and people
+construction worker, type-3,[U+1F477, U+1F3FC],person role,smileys and people
+construction worker, type-4,[U+1F477, U+1F3FD],person role,smileys and people
+construction worker, type-5,[U+1F477, U+1F3FE],person role,smileys and people
+construction worker, type-6,[U+1F477, U+1F3FF],person role,smileys and people
+man with turban ,[U+1F473],person role,smileys and people
+person with turban, type-1-2,[U+1F473, U+1F3FB],person role,smileys and people
+person with turban, type-3,[U+1F473, U+1F3FC],person role,smileys and people
+person with turban, type-4,[U+1F473, U+1F3FD],person role,smileys and people
+person with turban, type-5,[U+1F473, U+1F3FE],person role,smileys and people
+person with turban, type-6,[U+1F473, U+1F3FF],person role,smileys and people
+person with blond hair ,[U+1F471],person role,smileys and people
+blond person, type-1-2,[U+1F471, U+1F3FB],person role,smileys and people
+blond person, type-3,[U+1F471, U+1F3FC],person role,smileys and people
+blond person, type-4,[U+1F471, U+1F3FD],person role,smileys and people
+blond person, type-5,[U+1F471, U+1F3FE],person role,smileys and people
+blond person, type-6,[U+1F471, U+1F3FF],person role,smileys and people
+father christmas ,[U+1F385],person role,smileys and people
+santa claus, type-1-2,[U+1F385, U+1F3FB],person role,smileys and people
+santa claus, type-3,[U+1F385, U+1F3FC],person role,smileys and people
+santa claus, type-4,[U+1F385, U+1F3FD],person role,smileys and people
+santa claus, type-5,[U+1F385, U+1F3FE],person role,smileys and people
+santa claus, type-6,[U+1F385, U+1F3FF],person role,smileys and people
+mother christmas,[U+1F936],person role,smileys and people
+mother christmas, type-1-2,[U+1F936, U+1F3FB],person role,smileys and people
+mother christmas, type-3,[U+1F936, U+1F3FC],person role,smileys and people
+mother christmas, type-4,[U+1F936, U+1F3FD],person role,smileys and people
+mother christmas, type-5,[U+1F936, U+1F3FE],person role,smileys and people
+mother christmas, type-6,[U+1F936, U+1F3FF],person role,smileys and people
+princess,[U+1F478],person role,smileys and people
+princess, type-1-2,[U+1F478, U+1F3FB],person role,smileys and people
+princess, type-3,[U+1F478, U+1F3FC],person role,smileys and people
+princess, type-4,[U+1F478, U+1F3FD],person role,smileys and people
+princess, type-5,[U+1F478, U+1F3FE],person role,smileys and people
+princess, type-6,[U+1F478, U+1F3FF],person role,smileys and people
+prince,[U+1F934],person role,smileys and people
+prince, type-1-2,[U+1F934, U+1F3FB],person role,smileys and people
+prince, type-3,[U+1F934, U+1F3FC],person role,smileys and people
+prince, type-4,[U+1F934, U+1F3FD],person role,smileys and people
+prince, type-5,[U+1F934, U+1F3FE],person role,smileys and people
+prince, type-6,[U+1F934, U+1F3FF],person role,smileys and people
+bride with veil,[U+1F470],person role,smileys and people
+bride with veil, type-1-2,[U+1F470, U+1F3FB],person role,smileys and people
+bride with veil, type-3,[U+1F470, U+1F3FC],person role,smileys and people
+bride with veil, type-4,[U+1F470, U+1F3FD],person role,smileys and people
+bride with veil, type-5,[U+1F470, U+1F3FE],person role,smileys and people
+bride with veil, type-6,[U+1F470, U+1F3FF],person role,smileys and people
+man in tuxedo,[U+1F935],person role,smileys and people
+man in tuxedo, type-1-2,[U+1F935, U+1F3FB],person role,smileys and people
+man in tuxedo, type-3,[U+1F935, U+1F3FC],person role,smileys and people
+man in tuxedo, type-4,[U+1F935, U+1F3FD],person role,smileys and people
+man in tuxedo, type-5,[U+1F935, U+1F3FE],person role,smileys and people
+man in tuxedo, type-6,[U+1F935, U+1F3FF],person role,smileys and people
+pregnant woman,[U+1F930],person role,smileys and people
+pregnant woman, type-1-2,[U+1F930, U+1F3FB],person role,smileys and people
+pregnant woman, type-3,[U+1F930, U+1F3FC],person role,smileys and people
+pregnant woman, type-4,[U+1F930, U+1F3FD],person role,smileys and people
+pregnant woman, type-5,[U+1F930, U+1F3FE],person role,smileys and people
+pregnant woman, type-6,[U+1F930, U+1F3FF],person role,smileys and people
+man with gua pi mao ,[U+1F472],person role,smileys and people
+man with chinese cap, type-1-2,[U+1F472, U+1F3FB],person role,smileys and people
+man with chinese cap, type-3,[U+1F472, U+1F3FC],person role,smileys and people
+man with chinese cap, type-4,[U+1F472, U+1F3FD],person role,smileys and people
+man with chinese cap, type-5,[U+1F472, U+1F3FE],person role,smileys and people
+man with chinese cap, type-6,[U+1F472, U+1F3FF],person role,smileys and people
+person frowning,[U+1F64D],person gesture,smileys and people
+person frowning, type-1-2,[U+1F64D, U+1F3FB],person gesture,smileys and people
+person frowning, type-3,[U+1F64D, U+1F3FC],person gesture,smileys and people
+person frowning, type-4,[U+1F64D, U+1F3FD],person gesture,smileys and people
+person frowning, type-5,[U+1F64D, U+1F3FE],person gesture,smileys and people
+person frowning, type-6,[U+1F64D, U+1F3FF],person gesture,smileys and people
+person with pouting face ,[U+1F64E],person gesture,smileys and people
+person pouting, type-1-2,[U+1F64E, U+1F3FB],person gesture,smileys and people
+person pouting, type-3,[U+1F64E, U+1F3FC],person gesture,smileys and people
+person pouting, type-4,[U+1F64E, U+1F3FD],person gesture,smileys and people
+person pouting, type-5,[U+1F64E, U+1F3FE],person gesture,smileys and people
+person pouting, type-6,[U+1F64E, U+1F3FF],person gesture,smileys and people
+face with no good gesture ,[U+1F645],person gesture,smileys and people
+person gesturing not ok, type-1-2,[U+1F645, U+1F3FB],person gesture,smileys and people
+person gesturing not ok, type-3,[U+1F645, U+1F3FC],person gesture,smileys and people
+person gesturing not ok, type-4,[U+1F645, U+1F3FD],person gesture,smileys and people
+person gesturing not ok, type-5,[U+1F645, U+1F3FE],person gesture,smileys and people
+person gesturing not ok, type-6,[U+1F645, U+1F3FF],person gesture,smileys and people
+face with ok gesture ,[U+1F646],person gesture,smileys and people
+person gesturing ok, type-1-2,[U+1F646, U+1F3FB],person gesture,smileys and people
+person gesturing ok, type-3,[U+1F646, U+1F3FC],person gesture,smileys and people
+person gesturing ok, type-4,[U+1F646, U+1F3FD],person gesture,smileys and people
+person gesturing ok, type-5,[U+1F646, U+1F3FE],person gesture,smileys and people
+person gesturing ok, type-6,[U+1F646, U+1F3FF],person gesture,smileys and people
+information desk person ,[U+1F481],person gesture,smileys and people
+person tipping hand, type-1-2,[U+1F481, U+1F3FB],person gesture,smileys and people
+person tipping hand, type-3,[U+1F481, U+1F3FC],person gesture,smileys and people
+person tipping hand, type-4,[U+1F481, U+1F3FD],person gesture,smileys and people
+person tipping hand, type-5,[U+1F481, U+1F3FE],person gesture,smileys and people
+person tipping hand, type-6,[U+1F481, U+1F3FF],person gesture,smileys and people
+happy person raising one hand ,[U+1F64B],person gesture,smileys and people
+person raising hand, type-1-2,[U+1F64B, U+1F3FB],person gesture,smileys and people
+person raising hand, type-3,[U+1F64B, U+1F3FC],person gesture,smileys and people
+person raising hand, type-4,[U+1F64B, U+1F3FD],person gesture,smileys and people
+person raising hand, type-5,[U+1F64B, U+1F3FE],person gesture,smileys and people
+person raising hand, type-6,[U+1F64B, U+1F3FF],person gesture,smileys and people
+person bowing deeply ,[U+1F647],person gesture,smileys and people
+person bowing, type-1-2,[U+1F647, U+1F3FB],person gesture,smileys and people
+person bowing, type-3,[U+1F647, U+1F3FC],person gesture,smileys and people
+person bowing, type-4,[U+1F647, U+1F3FD],person gesture,smileys and people
+person bowing, type-5,[U+1F647, U+1F3FE],person gesture,smileys and people
+person bowing, type-6,[U+1F647, U+1F3FF],person gesture,smileys and people
+face palm ,[U+1F926],person gesture,smileys and people
+person facepalming, type-1-2,[U+1F926, U+1F3FB],person gesture,smileys and people
+person facepalming, type-3,[U+1F926, U+1F3FC],person gesture,smileys and people
+person facepalming, type-4,[U+1F926, U+1F3FD],person gesture,smileys and people
+person facepalming, type-5,[U+1F926, U+1F3FE],person gesture,smileys and people
+person facepalming, type-6,[U+1F926, U+1F3FF],person gesture,smileys and people
+shrug ,[U+1F937],person gesture,smileys and people
+person shrugging, type-1-2,[U+1F937, U+1F3FB],person gesture,smileys and people
+person shrugging, type-3,[U+1F937, U+1F3FC],person gesture,smileys and people
+person shrugging, type-4,[U+1F937, U+1F3FD],person gesture,smileys and people
+person shrugging, type-5,[U+1F937, U+1F3FE],person gesture,smileys and people
+person shrugging, type-6,[U+1F937, U+1F3FF],person gesture,smileys and people
+face massage ,[U+1F486],person activity,smileys and people
+person getting massage, type-1-2,[U+1F486, U+1F3FB],person activity,smileys and people
+person getting massage, type-3,[U+1F486, U+1F3FC],person activity,smileys and people
+person getting massage, type-4,[U+1F486, U+1F3FD],person activity,smileys and people
+person getting massage, type-5,[U+1F486, U+1F3FE],person activity,smileys and people
+person getting massage, type-6,[U+1F486, U+1F3FF],person activity,smileys and people
+haircut ,[U+1F487],person activity,smileys and people
+person getting haircut, type-1-2,[U+1F487, U+1F3FB],person activity,smileys and people
+person getting haircut, type-3,[U+1F487, U+1F3FC],person activity,smileys and people
+person getting haircut, type-4,[U+1F487, U+1F3FD],person activity,smileys and people
+person getting haircut, type-5,[U+1F487, U+1F3FE],person activity,smileys and people
+person getting haircut, type-6,[U+1F487, U+1F3FF],person activity,smileys and people
+pedestrian ,[U+1F6B6],person activity,smileys and people
+person walking, type-1-2,[U+1F6B6, U+1F3FB],person activity,smileys and people
+person walking, type-3,[U+1F6B6, U+1F3FC],person activity,smileys and people
+person walking, type-4,[U+1F6B6, U+1F3FD],person activity,smileys and people
+person walking, type-5,[U+1F6B6, U+1F3FE],person activity,smileys and people
+person walking, type-6,[U+1F6B6, U+1F3FF],person activity,smileys and people
+runner ,[U+1F3C3],person activity,smileys and people
+person running, type-1-2,[U+1F3C3, U+1F3FB],person activity,smileys and people
+person running, type-3,[U+1F3C3, U+1F3FC],person activity,smileys and people
+person running, type-4,[U+1F3C3, U+1F3FD],person activity,smileys and people
+person running, type-5,[U+1F3C3, U+1F3FE],person activity,smileys and people
+person running, type-6,[U+1F3C3, U+1F3FF],person activity,smileys and people
+dancer ,[U+1F483],person activity,smileys and people
+woman dancing, type-1-2,[U+1F483, U+1F3FB],person activity,smileys and people
+woman dancing, type-3,[U+1F483, U+1F3FC],person activity,smileys and people
+woman dancing, type-4,[U+1F483, U+1F3FD],person activity,smileys and people
+woman dancing, type-5,[U+1F483, U+1F3FE],person activity,smileys and people
+woman dancing, type-6,[U+1F483, U+1F3FF],person activity,smileys and people
+man dancing,[U+1F57A],person activity,smileys and people
+man dancing, type-1-2,[U+1F57A, U+1F3FB],person activity,smileys and people
+man dancing, type-3,[U+1F57A, U+1F3FC],person activity,smileys and people
+man dancing, type-4,[U+1F57A, U+1F3FD],person activity,smileys and people
+man dancing, type-5,[U+1F57A, U+1F3FE],person activity,smileys and people
+man dancing, type-6,[U+1F57A, U+1F3FF],person activity,smileys and people
+woman with bunny ears ,[U+1F46F],person activity,smileys and people
+man in business suit levitating,[U+1F574],person activity,smileys and people
+speaking head in silhouette ,[U+1F5E3],person activity,smileys and people
+bust in silhouette,[U+1F464],person activity,smileys and people
+busts in silhouette,[U+1F465],person activity,smileys and people
+man and woman holding hands,[U+1F46B],family,smileys and people
+two men holding hands,[U+1F46C],family,smileys and people
+two women holding hands,[U+1F46D],family,smileys and people
+kiss,[U+1F48F],family,smileys and people
+kiss, woman, man,[U+1F469, U+200D, U+2764, U+FE0F, U+200D, U+1F48B, U+200D, U+1F468],family,smileys and people
+kiss, man, man,[U+1F468, U+200D, U+2764, U+FE0F, U+200D, U+1F48B, U+200D, U+1F468],family,smileys and people
+kiss, woman, woman,[U+1F469, U+200D, U+2764, U+FE0F, U+200D, U+1F48B, U+200D, U+1F469],family,smileys and people
+couple with heart,[U+1F491],family,smileys and people
+couple with heart, woman, man,[U+1F469, U+200D, U+2764, U+FE0F, U+200D, U+1F468],family,smileys and people
+couple with heart, man, man,[U+1F468, U+200D, U+2764, U+FE0F, U+200D, U+1F468],family,smileys and people
+couple with heart, woman, woman,[U+1F469, U+200D, U+2764, U+FE0F, U+200D, U+1F469],family,smileys and people
+family,[U+1F46A],family,smileys and people
+family, man, woman, boy,[U+1F468, U+200D, U+1F469, U+200D, U+1F466],family,smileys and people
+family, man, woman, girl,[U+1F468, U+200D, U+1F469, U+200D, U+1F467],family,smileys and people
+family, man, woman, girl, boy,[U+1F468, U+200D, U+1F469, U+200D, U+1F467, U+200D, U+1F466],family,smileys and people
+family, man, woman, boy, boy,[U+1F468, U+200D, U+1F469, U+200D, U+1F466, U+200D, U+1F466],family,smileys and people
+family, man, woman, girl, girl,[U+1F468, U+200D, U+1F469, U+200D, U+1F467, U+200D, U+1F467],family,smileys and people
+family, man, man, boy,[U+1F468, U+200D, U+1F468, U+200D, U+1F466],family,smileys and people
+family, man, man, girl,[U+1F468, U+200D, U+1F468, U+200D, U+1F467],family,smileys and people
+family, man, man, girl, boy,[U+1F468, U+200D, U+1F468, U+200D, U+1F467, U+200D, U+1F466],family,smileys and people
+family, man, man, boy, boy,[U+1F468, U+200D, U+1F468, U+200D, U+1F466, U+200D, U+1F466],family,smileys and people
+family, man, man, girl, girl,[U+1F468, U+200D, U+1F468, U+200D, U+1F467, U+200D, U+1F467],family,smileys and people
+family, woman, woman, boy,[U+1F469, U+200D, U+1F469, U+200D, U+1F466],family,smileys and people
+family, woman, woman, girl,[U+1F469, U+200D, U+1F469, U+200D, U+1F467],family,smileys and people
+family, woman, woman, girl, boy,[U+1F469, U+200D, U+1F469, U+200D, U+1F467, U+200D, U+1F466],family,smileys and people
+family, woman, woman, boy, boy,[U+1F469, U+200D, U+1F469, U+200D, U+1F466, U+200D, U+1F466],family,smileys and people
+family, woman, woman, girl, girl,[U+1F469, U+200D, U+1F469, U+200D, U+1F467, U+200D, U+1F467],family,smileys and people
+emoji modifier fitzpatrick type-1-2 ,[U+1F3FB],skin tone,smileys and people
+emoji modifier fitzpatrick type-3 ,[U+1F3FC],skin tone,smileys and people
+emoji modifier fitzpatrick type-4 ,[U+1F3FD],skin tone,smileys and people
+emoji modifier fitzpatrick type-5 ,[U+1F3FE],skin tone,smileys and people
+emoji modifier fitzpatrick type-6 ,[U+1F3FF],skin tone,smileys and people
+flexed biceps,[U+1F4AA],body,smileys and people
+flexed biceps, type-1-2,[U+1F4AA, U+1F3FB],body,smileys and people
+flexed biceps, type-3,[U+1F4AA, U+1F3FC],body,smileys and people
+flexed biceps, type-4,[U+1F4AA, U+1F3FD],body,smileys and people
+flexed biceps, type-5,[U+1F4AA, U+1F3FE],body,smileys and people
+flexed biceps, type-6,[U+1F4AA, U+1F3FF],body,smileys and people
+selfie,[U+1F933],body,smileys and people
+selfie, type-1-2,[U+1F933, U+1F3FB],body,smileys and people
+selfie, type-3,[U+1F933, U+1F3FC],body,smileys and people
+selfie, type-4,[U+1F933, U+1F3FD],body,smileys and people
+selfie, type-5,[U+1F933, U+1F3FE],body,smileys and people
+selfie, type-6,[U+1F933, U+1F3FF],body,smileys and people
+white left pointing backhand index ,[U+1F448],body,smileys and people
+backhand index pointing left, type-1-2,[U+1F448, U+1F3FB],body,smileys and people
+backhand index pointing left, type-3,[U+1F448, U+1F3FC],body,smileys and people
+backhand index pointing left, type-4,[U+1F448, U+1F3FD],body,smileys and people
+backhand index pointing left, type-5,[U+1F448, U+1F3FE],body,smileys and people
+backhand index pointing left, type-6,[U+1F448, U+1F3FF],body,smileys and people
+white right pointing backhand index ,[U+1F449],body,smileys and people
+backhand index pointing right, type-1-2,[U+1F449, U+1F3FB],body,smileys and people
+backhand index pointing right, type-3,[U+1F449, U+1F3FC],body,smileys and people
+backhand index pointing right, type-4,[U+1F449, U+1F3FD],body,smileys and people
+backhand index pointing right, type-5,[U+1F449, U+1F3FE],body,smileys and people
+backhand index pointing right, type-6,[U+1F449, U+1F3FF],body,smileys and people
+white up pointing index ,[U+261D],body,smileys and people
+index pointing up, type-1-2,[U+261D, U+1F3FB],body,smileys and people
+index pointing up, type-3,[U+261D, U+1F3FC],body,smileys and people
+index pointing up, type-4,[U+261D, U+1F3FD],body,smileys and people
+index pointing up, type-5,[U+261D, U+1F3FE],body,smileys and people
+index pointing up, type-6,[U+261D, U+1F3FF],body,smileys and people
+white up pointing backhand index ,[U+1F446],body,smileys and people
+backhand index pointing up, type-1-2,[U+1F446, U+1F3FB],body,smileys and people
+backhand index pointing up, type-3,[U+1F446, U+1F3FC],body,smileys and people
+backhand index pointing up, type-4,[U+1F446, U+1F3FD],body,smileys and people
+backhand index pointing up, type-5,[U+1F446, U+1F3FE],body,smileys and people
+backhand index pointing up, type-6,[U+1F446, U+1F3FF],body,smileys and people
+reversed hand with middle finger extended ,[U+1F595],body,smileys and people
+middle finger, type-1-2,[U+1F595, U+1F3FB],body,smileys and people
+middle finger, type-3,[U+1F595, U+1F3FC],body,smileys and people
+middle finger, type-4,[U+1F595, U+1F3FD],body,smileys and people
+middle finger, type-5,[U+1F595, U+1F3FE],body,smileys and people
+middle finger, type-6,[U+1F595, U+1F3FF],body,smileys and people
+white down pointing backhand index ,[U+1F447],body,smileys and people
+backhand index pointing down, type-1-2,[U+1F447, U+1F3FB],body,smileys and people
+backhand index pointing down, type-3,[U+1F447, U+1F3FC],body,smileys and people
+backhand index pointing down, type-4,[U+1F447, U+1F3FD],body,smileys and people
+backhand index pointing down, type-5,[U+1F447, U+1F3FE],body,smileys and people
+backhand index pointing down, type-6,[U+1F447, U+1F3FF],body,smileys and people
+victory hand,[U+270C],body,smileys and people
+victory hand, type-1-2,[U+270C, U+1F3FB],body,smileys and people
+victory hand, type-3,[U+270C, U+1F3FC],body,smileys and people
+victory hand, type-4,[U+270C, U+1F3FD],body,smileys and people
+victory hand, type-5,[U+270C, U+1F3FE],body,smileys and people
+victory hand, type-6,[U+270C, U+1F3FF],body,smileys and people
+hand with index and middle fingers crossed ,[U+1F91E],body,smileys and people
+crossed fingers, type-1-2,[U+1F91E, U+1F3FB],body,smileys and people
+crossed fingers, type-3,[U+1F91E, U+1F3FC],body,smileys and people
+crossed fingers, type-4,[U+1F91E, U+1F3FD],body,smileys and people
+crossed fingers, type-5,[U+1F91E, U+1F3FE],body,smileys and people
+crossed fingers, type-6,[U+1F91E, U+1F3FF],body,smileys and people
+raised hand with part between middle and ring fingers ,[U+1F596],body,smileys and people
+vulcan salute, type-1-2,[U+1F596, U+1F3FB],body,smileys and people
+vulcan salute, type-3,[U+1F596, U+1F3FC],body,smileys and people
+vulcan salute, type-4,[U+1F596, U+1F3FD],body,smileys and people
+vulcan salute, type-5,[U+1F596, U+1F3FE],body,smileys and people
+vulcan salute, type-6,[U+1F596, U+1F3FF],body,smileys and people
+sign of the horns,[U+1F918],body,smileys and people
+sign of the horns, type-1-2,[U+1F918, U+1F3FB],body,smileys and people
+sign of the horns, type-3,[U+1F918, U+1F3FC],body,smileys and people
+sign of the horns, type-4,[U+1F918, U+1F3FD],body,smileys and people
+sign of the horns, type-5,[U+1F918, U+1F3FE],body,smileys and people
+sign of the horns, type-6,[U+1F918, U+1F3FF],body,smileys and people
+call me hand,[U+1F919],body,smileys and people
+call me hand, type-1-2,[U+1F919, U+1F3FB],body,smileys and people
+call me hand, type-3,[U+1F919, U+1F3FC],body,smileys and people
+call me hand, type-4,[U+1F919, U+1F3FD],body,smileys and people
+call me hand, type-5,[U+1F919, U+1F3FE],body,smileys and people
+call me hand, type-6,[U+1F919, U+1F3FF],body,smileys and people
+raised hand with fingers splayed,[U+1F590],body,smileys and people
+raised hand with fingers splayed, type-1-2,[U+1F590, U+1F3FB],body,smileys and people
+raised hand with fingers splayed, type-3,[U+1F590, U+1F3FC],body,smileys and people
+raised hand with fingers splayed, type-4,[U+1F590, U+1F3FD],body,smileys and people
+raised hand with fingers splayed, type-5,[U+1F590, U+1F3FE],body,smileys and people
+raised hand with fingers splayed, type-6,[U+1F590, U+1F3FF],body,smileys and people
+raised hand,[U+270B],body,smileys and people
+raised hand, type-1-2,[U+270B, U+1F3FB],body,smileys and people
+raised hand, type-3,[U+270B, U+1F3FC],body,smileys and people
+raised hand, type-4,[U+270B, U+1F3FD],body,smileys and people
+raised hand, type-5,[U+270B, U+1F3FE],body,smileys and people
+raised hand, type-6,[U+270B, U+1F3FF],body,smileys and people
+ok hand sign ,[U+1F44C],body,smileys and people
+ok hand, type-1-2,[U+1F44C, U+1F3FB],body,smileys and people
+ok hand, type-3,[U+1F44C, U+1F3FC],body,smileys and people
+ok hand, type-4,[U+1F44C, U+1F3FD],body,smileys and people
+ok hand, type-5,[U+1F44C, U+1F3FE],body,smileys and people
+ok hand, type-6,[U+1F44C, U+1F3FF],body,smileys and people
+thumbs up sign ,[U+1F44D],body,smileys and people
+thumbs up, type-1-2,[U+1F44D, U+1F3FB],body,smileys and people
+thumbs up, type-3,[U+1F44D, U+1F3FC],body,smileys and people
+thumbs up, type-4,[U+1F44D, U+1F3FD],body,smileys and people
+thumbs up, type-5,[U+1F44D, U+1F3FE],body,smileys and people
+thumbs up, type-6,[U+1F44D, U+1F3FF],body,smileys and people
+thumbs down sign ,[U+1F44E],body,smileys and people
+thumbs down, type-1-2,[U+1F44E, U+1F3FB],body,smileys and people
+thumbs down, type-3,[U+1F44E, U+1F3FC],body,smileys and people
+thumbs down, type-4,[U+1F44E, U+1F3FD],body,smileys and people
+thumbs down, type-5,[U+1F44E, U+1F3FE],body,smileys and people
+thumbs down, type-6,[U+1F44E, U+1F3FF],body,smileys and people
+raised fist,[U+270A],body,smileys and people
+raised fist, type-1-2,[U+270A, U+1F3FB],body,smileys and people
+raised fist, type-3,[U+270A, U+1F3FC],body,smileys and people
+raised fist, type-4,[U+270A, U+1F3FD],body,smileys and people
+raised fist, type-5,[U+270A, U+1F3FE],body,smileys and people
+raised fist, type-6,[U+270A, U+1F3FF],body,smileys and people
+fisted hand sign ,[U+1F44A],body,smileys and people
+oncoming fist, type-1-2,[U+1F44A, U+1F3FB],body,smileys and people
+oncoming fist, type-3,[U+1F44A, U+1F3FC],body,smileys and people
+oncoming fist, type-4,[U+1F44A, U+1F3FD],body,smileys and people
+oncoming fist, type-5,[U+1F44A, U+1F3FE],body,smileys and people
+oncoming fist, type-6,[U+1F44A, U+1F3FF],body,smileys and people
+left-facing fist,[U+1F91B],body,smileys and people
+left-facing fist, type-1-2,[U+1F91B, U+1F3FB],body,smileys and people
+left-facing fist, type-3,[U+1F91B, U+1F3FC],body,smileys and people
+left-facing fist, type-4,[U+1F91B, U+1F3FD],body,smileys and people
+left-facing fist, type-5,[U+1F91B, U+1F3FE],body,smileys and people
+left-facing fist, type-6,[U+1F91B, U+1F3FF],body,smileys and people
+right-facing fist,[U+1F91C],body,smileys and people
+right-facing fist, type-1-2,[U+1F91C, U+1F3FB],body,smileys and people
+right-facing fist, type-3,[U+1F91C, U+1F3FC],body,smileys and people
+right-facing fist, type-4,[U+1F91C, U+1F3FD],body,smileys and people
+right-facing fist, type-5,[U+1F91C, U+1F3FE],body,smileys and people
+right-facing fist, type-6,[U+1F91C, U+1F3FF],body,smileys and people
+raised back of hand,[U+1F91A],body,smileys and people
+raised back of hand, type-1-2,[U+1F91A, U+1F3FB],body,smileys and people
+raised back of hand, type-3,[U+1F91A, U+1F3FC],body,smileys and people
+raised back of hand, type-4,[U+1F91A, U+1F3FD],body,smileys and people
+raised back of hand, type-5,[U+1F91A, U+1F3FE],body,smileys and people
+raised back of hand, type-6,[U+1F91A, U+1F3FF],body,smileys and people
+waving hand sign ,[U+1F44B],body,smileys and people
+waving hand, type-1-2,[U+1F44B, U+1F3FB],body,smileys and people
+waving hand, type-3,[U+1F44B, U+1F3FC],body,smileys and people
+waving hand, type-4,[U+1F44B, U+1F3FD],body,smileys and people
+waving hand, type-5,[U+1F44B, U+1F3FE],body,smileys and people
+waving hand, type-6,[U+1F44B, U+1F3FF],body,smileys and people
+clapping hands sign ,[U+1F44F],body,smileys and people
+clapping hands, type-1-2,[U+1F44F, U+1F3FB],body,smileys and people
+clapping hands, type-3,[U+1F44F, U+1F3FC],body,smileys and people
+clapping hands, type-4,[U+1F44F, U+1F3FD],body,smileys and people
+clapping hands, type-5,[U+1F44F, U+1F3FE],body,smileys and people
+clapping hands, type-6,[U+1F44F, U+1F3FF],body,smileys and people
+writing hand,[U+270D],body,smileys and people
+writing hand, type-1-2,[U+270D, U+1F3FB],body,smileys and people
+writing hand, type-3,[U+270D, U+1F3FC],body,smileys and people
+writing hand, type-4,[U+270D, U+1F3FD],body,smileys and people
+writing hand, type-5,[U+270D, U+1F3FE],body,smileys and people
+writing hand, type-6,[U+270D, U+1F3FF],body,smileys and people
+open hands sign ,[U+1F450],body,smileys and people
+open hands, type-1-2,[U+1F450, U+1F3FB],body,smileys and people
+open hands, type-3,[U+1F450, U+1F3FC],body,smileys and people
+open hands, type-4,[U+1F450, U+1F3FD],body,smileys and people
+open hands, type-5,[U+1F450, U+1F3FE],body,smileys and people
+open hands, type-6,[U+1F450, U+1F3FF],body,smileys and people
+person raising both hands in celebration ,[U+1F64C],body,smileys and people
+person raising hands, type-1-2,[U+1F64C, U+1F3FB],body,smileys and people
+person raising hands, type-3,[U+1F64C, U+1F3FC],body,smileys and people
+person raising hands, type-4,[U+1F64C, U+1F3FD],body,smileys and people
+person raising hands, type-5,[U+1F64C, U+1F3FE],body,smileys and people
+person raising hands, type-6,[U+1F64C, U+1F3FF],body,smileys and people
+person with folded hands ,[U+1F64F],body,smileys and people
+folded hands, type-1-2,[U+1F64F, U+1F3FB],body,smileys and people
+folded hands, type-3,[U+1F64F, U+1F3FC],body,smileys and people
+folded hands, type-4,[U+1F64F, U+1F3FD],body,smileys and people
+folded hands, type-5,[U+1F64F, U+1F3FE],body,smileys and people
+folded hands, type-6,[U+1F64F, U+1F3FF],body,smileys and people
+handshake,[U+1F91D],body,smileys and people
+handshake, type-1-2,[U+1F91D, U+1F3FB],body,smileys and people
+handshake, type-3,[U+1F91D, U+1F3FC],body,smileys and people
+handshake, type-4,[U+1F91D, U+1F3FD],body,smileys and people
+handshake, type-5,[U+1F91D, U+1F3FE],body,smileys and people
+handshake, type-6,[U+1F91D, U+1F3FF],body,smileys and people
+nail polish,[U+1F485],body,smileys and people
+nail polish, type-1-2,[U+1F485, U+1F3FB],body,smileys and people
+nail polish, type-3,[U+1F485, U+1F3FC],body,smileys and people
+nail polish, type-4,[U+1F485, U+1F3FD],body,smileys and people
+nail polish, type-5,[U+1F485, U+1F3FE],body,smileys and people
+nail polish, type-6,[U+1F485, U+1F3FF],body,smileys and people
+ear,[U+1F442],body,smileys and people
+ear, type-1-2,[U+1F442, U+1F3FB],body,smileys and people
+ear, type-3,[U+1F442, U+1F3FC],body,smileys and people
+ear, type-4,[U+1F442, U+1F3FD],body,smileys and people
+ear, type-5,[U+1F442, U+1F3FE],body,smileys and people
+ear, type-6,[U+1F442, U+1F3FF],body,smileys and people
+nose,[U+1F443],body,smileys and people
+nose, type-1-2,[U+1F443, U+1F3FB],body,smileys and people
+nose, type-3,[U+1F443, U+1F3FC],body,smileys and people
+nose, type-4,[U+1F443, U+1F3FD],body,smileys and people
+nose, type-5,[U+1F443, U+1F3FE],body,smileys and people
+nose, type-6,[U+1F443, U+1F3FF],body,smileys and people
+footprints,[U+1F463],body,smileys and people
+eyes,[U+1F440],body,smileys and people
+eye,[U+1F441],body,smileys and people
+eye, left speech bubble,[U+1F441, U+200D, U+1F5E8],body,smileys and people
+tongue,[U+1F445],body,smileys and people
+mouth,[U+1F444],body,smileys and people
+kiss mark,[U+1F48B],body,smileys and people
+heart with arrow,[U+1F498],emotion,smileys and people
+heavy black heart ,[U+2764],emotion,smileys and people
+beating heart,[U+1F493],emotion,smileys and people
+broken heart,[U+1F494],emotion,smileys and people
+two hearts,[U+1F495],emotion,smileys and people
+sparkling heart,[U+1F496],emotion,smileys and people
+growing heart,[U+1F497],emotion,smileys and people
+blue heart,[U+1F499],emotion,smileys and people
+green heart,[U+1F49A],emotion,smileys and people
+yellow heart,[U+1F49B],emotion,smileys and people
+purple heart,[U+1F49C],emotion,smileys and people
+black heart,[U+1F5A4],emotion,smileys and people
+heart with ribbon,[U+1F49D],emotion,smileys and people
+revolving hearts,[U+1F49E],emotion,smileys and people
+heart decoration,[U+1F49F],emotion,smileys and people
+heavy heart exclamation mark ornament ,[U+2763],emotion,smileys and people
+love letter,[U+1F48C],emotion,smileys and people
+sleeping symbol ,[U+1F4A4],emotion,smileys and people
+anger symbol,[U+1F4A2],emotion,smileys and people
+bomb,[U+1F4A3],emotion,smileys and people
+collision symbol ,[U+1F4A5],emotion,smileys and people
+splashing sweat symbol ,[U+1F4A6],emotion,smileys and people
+dash symbol ,[U+1F4A8],emotion,smileys and people
+dizzy symbol ,[U+1F4AB],emotion,smileys and people
+speech balloon,[U+1F4AC],emotion,smileys and people
+left speech bubble,[U+1F5E8],emotion,smileys and people
+right anger bubble,[U+1F5EF],emotion,smileys and people
+thought balloon,[U+1F4AD],emotion,smileys and people
+hole,[U+1F573],emotion,smileys and people
+eyeglasses ,[U+1F453],clothing,smileys and people
+dark sunglasses ,[U+1F576],clothing,smileys and people
+necktie,[U+1F454],clothing,smileys and people
+t-shirt,[U+1F455],clothing,smileys and people
+jeans,[U+1F456],clothing,smileys and people
+dress,[U+1F457],clothing,smileys and people
+kimono,[U+1F458],clothing,smileys and people
+bikini,[U+1F459],clothing,smileys and people
+womans clothes ,[U+1F45A],clothing,smileys and people
+purse,[U+1F45B],clothing,smileys and people
+handbag,[U+1F45C],clothing,smileys and people
+pouch,[U+1F45D],clothing,smileys and people
+shopping bags,[U+1F6CD],clothing,smileys and people
+school satchel ,[U+1F392],clothing,smileys and people
+mans shoe ,[U+1F45E],clothing,smileys and people
+athletic shoe ,[U+1F45F],clothing,smileys and people
+high-heeled shoe,[U+1F460],clothing,smileys and people
+womans sandal ,[U+1F461],clothing,smileys and people
+womans boots ,[U+1F462],clothing,smileys and people
+crown,[U+1F451],clothing,smileys and people
+womans hat ,[U+1F452],clothing,smileys and people
+top hat,[U+1F3A9],clothing,smileys and people
+graduation cap,[U+1F393],clothing,smileys and people
+helmet with white cross,[U+26D1],clothing,smileys and people
+prayer beads,[U+1F4FF],clothing,smileys and people
+lipstick,[U+1F484],clothing,smileys and people
+ring,[U+1F48D],clothing,smileys and people
+gem stone,[U+1F48E],clothing,smileys and people
+monkey face,[U+1F435],animal mammal,animals and nature
+monkey,[U+1F412],animal mammal,animals and nature
+gorilla,[U+1F98D],animal mammal,animals and nature
+dog face,[U+1F436],animal mammal,animals and nature
+dog,[U+1F415],animal mammal,animals and nature
+poodle,[U+1F429],animal mammal,animals and nature
+wolf face,[U+1F43A],animal mammal,animals and nature
+fox face,[U+1F98A],animal mammal,animals and nature
+cat face,[U+1F431],animal mammal,animals and nature
+cat,[U+1F408],animal mammal,animals and nature
+lion face,[U+1F981],animal mammal,animals and nature
+tiger face,[U+1F42F],animal mammal,animals and nature
+tiger,[U+1F405],animal mammal,animals and nature
+leopard,[U+1F406],animal mammal,animals and nature
+horse face,[U+1F434],animal mammal,animals and nature
+horse,[U+1F40E],animal mammal,animals and nature
+deer,[U+1F98C],animal mammal,animals and nature
+unicorn face,[U+1F984],animal mammal,animals and nature
+cow face,[U+1F42E],animal mammal,animals and nature
+ox,[U+1F402],animal mammal,animals and nature
+water buffalo,[U+1F403],animal mammal,animals and nature
+cow,[U+1F404],animal mammal,animals and nature
+pig face,[U+1F437],animal mammal,animals and nature
+pig,[U+1F416],animal mammal,animals and nature
+boar,[U+1F417],animal mammal,animals and nature
+pig nose,[U+1F43D],animal mammal,animals and nature
+ram,[U+1F40F],animal mammal,animals and nature
+sheep,[U+1F411],animal mammal,animals and nature
+goat,[U+1F410],animal mammal,animals and nature
+dromedary camel ,[U+1F42A],animal mammal,animals and nature
+bactrian camel ,[U+1F42B],animal mammal,animals and nature
+elephant,[U+1F418],animal mammal,animals and nature
+rhinoceros,[U+1F98F],animal mammal,animals and nature
+mouse face,[U+1F42D],animal mammal,animals and nature
+mouse,[U+1F401],animal mammal,animals and nature
+rat,[U+1F400],animal mammal,animals and nature
+hamster face,[U+1F439],animal mammal,animals and nature
+rabbit face,[U+1F430],animal mammal,animals and nature
+rabbit,[U+1F407],animal mammal,animals and nature
+chipmunk,[U+1F43F],animal mammal,animals and nature
+bat,[U+1F987],animal mammal,animals and nature
+bear face,[U+1F43B],animal mammal,animals and nature
+koala,[U+1F428],animal mammal,animals and nature
+panda face,[U+1F43C],animal mammal,animals and nature
+paw prints,[U+1F43E],animal mammal,animals and nature
+turkey,[U+1F983],animal bird,animals and nature
+chicken,[U+1F414],animal bird,animals and nature
+rooster,[U+1F413],animal bird,animals and nature
+hatching chick,[U+1F423],animal bird,animals and nature
+baby chick,[U+1F424],animal bird,animals and nature
+front-facing baby chick,[U+1F425],animal bird,animals and nature
+bird,[U+1F426],animal bird,animals and nature
+penguin,[U+1F427],animal bird,animals and nature
+dove of peace ,[U+1F54A],animal bird,animals and nature
+eagle,[U+1F985],animal bird,animals and nature
+duck,[U+1F986],animal bird,animals and nature
+owl,[U+1F989],animal bird,animals and nature
+frog face,[U+1F438],animal amphibian,animals and nature
+crocodile,[U+1F40A],animal reptile,animals and nature
+turtle,[U+1F422],animal reptile,animals and nature
+lizard,[U+1F98E],animal reptile,animals and nature
+snake,[U+1F40D],animal reptile,animals and nature
+dragon face,[U+1F432],animal reptile,animals and nature
+dragon,[U+1F409],animal reptile,animals and nature
+spouting whale,[U+1F433],animal marine,animals and nature
+whale,[U+1F40B],animal marine,animals and nature
+dolphin,[U+1F42C],animal marine,animals and nature
+fish,[U+1F41F],animal marine,animals and nature
+tropical fish,[U+1F420],animal marine,animals and nature
+blowfish,[U+1F421],animal marine,animals and nature
+shark,[U+1F988],animal marine,animals and nature
+octopus,[U+1F419],animal marine,animals and nature
+spiral shell,[U+1F41A],animal marine,animals and nature
+crab,[U+1F980],animal marine,animals and nature
+shrimp,[U+1F990],animal marine,animals and nature
+squid,[U+1F991],animal marine,animals and nature
+butterfly,[U+1F98B],animal bug,animals and nature
+snail,[U+1F40C],animal bug,animals and nature
+bug,[U+1F41B],animal bug,animals and nature
+ant,[U+1F41C],animal bug,animals and nature
+honeybee,[U+1F41D],animal bug,animals and nature
+lady beetle,[U+1F41E],animal bug,animals and nature
+spider,[U+1F577],animal bug,animals and nature
+spider web,[U+1F578],animal bug,animals and nature
+scorpion,[U+1F982],animal bug,animals and nature
+bouquet,[U+1F490],plant flower,animals and nature
+cherry blossom,[U+1F338],plant flower,animals and nature
+white flower,[U+1F4AE],plant flower,animals and nature
+rosette,[U+1F3F5],plant flower,animals and nature
+rose,[U+1F339],plant flower,animals and nature
+wilted flower,[U+1F940],plant flower,animals and nature
+hibiscus,[U+1F33A],plant flower,animals and nature
+sunflower,[U+1F33B],plant flower,animals and nature
+blossom,[U+1F33C],plant flower,animals and nature
+tulip,[U+1F337],plant flower,animals and nature
+seedling,[U+1F331],plant other,animals and nature
+evergreen tree ,[U+1F332],plant other,animals and nature
+deciduous tree,[U+1F333],plant other,animals and nature
+palm tree,[U+1F334],plant other,animals and nature
+cactus,[U+1F335],plant other,animals and nature
+ear of rice ,[U+1F33E],plant other,animals and nature
+herb,[U+1F33F],plant other,animals and nature
+shamrock,[U+2618],plant other,animals and nature
+four leaf clover,[U+1F340],plant other,animals and nature
+maple leaf,[U+1F341],plant other,animals and nature
+fallen leaf,[U+1F342],plant other,animals and nature
+leaf fluttering in wind,[U+1F343],plant other,animals and nature
+grapes,[U+1F347],food fruit,food and drink
+melon,[U+1F348],food fruit,food and drink
+watermelon,[U+1F349],food fruit,food and drink
+tangerine,[U+1F34A],food fruit,food and drink
+lemon,[U+1F34B],food fruit,food and drink
+banana,[U+1F34C],food fruit,food and drink
+pineapple,[U+1F34D],food fruit,food and drink
+red apple,[U+1F34E],food fruit,food and drink
+green apple,[U+1F34F],food fruit,food and drink
+pear,[U+1F350],food fruit,food and drink
+peach,[U+1F351],food fruit,food and drink
+cherries,[U+1F352],food fruit,food and drink
+strawberry,[U+1F353],food fruit,food and drink
+kiwifruit,[U+1F95D],food fruit,food and drink
+tomato,[U+1F345],food fruit,food and drink
+avocado,[U+1F951],food vegetable,food and drink
+aubergine ,[U+1F346],food vegetable,food and drink
+potato,[U+1F954],food vegetable,food and drink
+carrot,[U+1F955],food vegetable,food and drink
+ear of maize ,[U+1F33D],food vegetable,food and drink
+hot pepper,[U+1F336],food vegetable,food and drink
+cucumber,[U+1F952],food vegetable,food and drink
+mushroom,[U+1F344],food vegetable,food and drink
+peanuts,[U+1F95C],food vegetable,food and drink
+chestnut,[U+1F330],food vegetable,food and drink
+bread,[U+1F35E],food prepared,food and drink
+croissant,[U+1F950],food prepared,food and drink
+baguette bread,[U+1F956],food prepared,food and drink
+pancakes,[U+1F95E],food prepared,food and drink
+cheese wedge,[U+1F9C0],food prepared,food and drink
+meat on bone,[U+1F356],food prepared,food and drink
+poultry leg,[U+1F357],food prepared,food and drink
+bacon,[U+1F953],food prepared,food and drink
+hamburger,[U+1F354],food prepared,food and drink
+french fries,[U+1F35F],food prepared,food and drink
+slice of pizza ,[U+1F355],food prepared,food and drink
+hot dog,[U+1F32D],food prepared,food and drink
+taco,[U+1F32E],food prepared,food and drink
+burrito,[U+1F32F],food prepared,food and drink
+stuffed flatbread,[U+1F959],food prepared,food and drink
+egg,[U+1F95A],food prepared,food and drink
+cooking,[U+1F373],food prepared,food and drink
+shallow pan of food,[U+1F958],food prepared,food and drink
+pot of food,[U+1F372],food prepared,food and drink
+green salad,[U+1F957],food prepared,food and drink
+popcorn,[U+1F37F],food prepared,food and drink
+bento box,[U+1F371],food asian,food and drink
+rice cracker,[U+1F358],food asian,food and drink
+rice ball,[U+1F359],food asian,food and drink
+cooked rice,[U+1F35A],food asian,food and drink
+curry and rice ,[U+1F35B],food asian,food and drink
+steaming bowl,[U+1F35C],food asian,food and drink
+spaghetti,[U+1F35D],food asian,food and drink
+roasted sweet potato,[U+1F360],food asian,food and drink
+oden,[U+1F362],food asian,food and drink
+sushi,[U+1F363],food asian,food and drink
+fried shrimp,[U+1F364],food asian,food and drink
+fish cake with swirl design ,[U+1F365],food asian,food and drink
+dango,[U+1F361],food asian,food and drink
+soft ice cream,[U+1F366],food sweet,food and drink
+shaved ice,[U+1F367],food sweet,food and drink
+ice cream,[U+1F368],food sweet,food and drink
+doughnut,[U+1F369],food sweet,food and drink
+cookie,[U+1F36A],food sweet,food and drink
+birthday cake,[U+1F382],food sweet,food and drink
+shortcake,[U+1F370],food sweet,food and drink
+chocolate bar,[U+1F36B],food sweet,food and drink
+candy,[U+1F36C],food sweet,food and drink
+lollipop,[U+1F36D],food sweet,food and drink
+custard,[U+1F36E],food sweet,food and drink
+honey pot,[U+1F36F],food sweet,food and drink
+baby bottle,[U+1F37C],drink,food and drink
+glass of milk,[U+1F95B],drink,food and drink
+hot beverage,[U+2615],drink,food and drink
+teacup without handle,[U+1F375],drink,food and drink
+sake bottle and cup ,[U+1F376],drink,food and drink
+bottle with popping cork,[U+1F37E],drink,food and drink
+wine glass,[U+1F377],drink,food and drink
+cocktail glass,[U+1F378],drink,food and drink
+tropical drink,[U+1F379],drink,food and drink
+beer mug,[U+1F37A],drink,food and drink
+clinking beer mugs,[U+1F37B],drink,food and drink
+clinking glasses,[U+1F942],drink,food and drink
+tumbler glass,[U+1F943],drink,food and drink
+fork and knife with plate,[U+1F37D],dishware,food and drink
+fork and knife,[U+1F374],dishware,food and drink
+spoon,[U+1F944],dishware,food and drink
+hocho ,[U+1F52A],dishware,food and drink
+amphora,[U+1F3FA],dishware,food and drink
+earth globe europe-africa ,[U+1F30D],travel and places,travel and places
+earth globe americas ,[U+1F30E],travel and places,travel and places
+earth globe asia-australia ,[U+1F30F],travel and places,travel and places
+globe with meridians,[U+1F310],travel and places,travel and places
+world map,[U+1F5FA],travel and places,travel and places
+silhouette of japan ,[U+1F5FE],travel and places,travel and places
+snow capped mountain ,[U+1F3D4],travel and places,travel and places
+mountain,[U+26F0],travel and places,travel and places
+volcano,[U+1F30B],travel and places,travel and places
+mount fuji,[U+1F5FB],travel and places,travel and places
+camping,[U+1F3D5],travel and places,travel and places
+beach with umbrella,[U+1F3D6],travel and places,travel and places
+desert,[U+1F3DC],travel and places,travel and places
+desert island,[U+1F3DD],travel and places,travel and places
+national park,[U+1F3DE],travel and places,travel and places
+stadium,[U+1F3DF],travel and places,travel and places
+classical building,[U+1F3DB],travel and places,travel and places
+building construction,[U+1F3D7],travel and places,travel and places
+house buildings,[U+1F3D8],travel and places,travel and places
+cityscape,[U+1F3D9],travel and places,travel and places
+derelict house building,[U+1F3DA],travel and places,travel and places
+house building,[U+1F3E0],travel and places,travel and places
+house with garden,[U+1F3E1],travel and places,travel and places
+office building,[U+1F3E2],travel and places,travel and places
+japanese post office,[U+1F3E3],travel and places,travel and places
+european post office ,[U+1F3E4],travel and places,travel and places
+hospital,[U+1F3E5],travel and places,travel and places
+bank,[U+1F3E6],travel and places,travel and places
+hotel,[U+1F3E8],travel and places,travel and places
+love hotel,[U+1F3E9],travel and places,travel and places
+convenience store,[U+1F3EA],travel and places,travel and places
+school,[U+1F3EB],travel and places,travel and places
+department store,[U+1F3EC],travel and places,travel and places
+factory,[U+1F3ED],travel and places,travel and places
+japanese castle,[U+1F3EF],travel and places,travel and places
+european castle ,[U+1F3F0],travel and places,travel and places
+wedding,[U+1F492],travel and places,travel and places
+tokyo tower,[U+1F5FC],travel and places,travel and places
+statue of liberty,[U+1F5FD],travel and places,travel and places
+church,[U+26EA],travel and places,travel and places
+mosque,[U+1F54C],travel and places,travel and places
+synagogue,[U+1F54D],travel and places,travel and places
+shinto shrine,[U+26E9],travel and places,travel and places
+kaaba,[U+1F54B],travel and places,travel and places
+fountain,[U+26F2],travel and places,travel and places
+tent,[U+26FA],travel and places,travel and places
+foggy,[U+1F301],travel and places,travel and places
+night with stars,[U+1F303],travel and places,travel and places
+sunrise over mountains,[U+1F304],travel and places,travel and places
+sunrise,[U+1F305],travel and places,travel and places
+cityscape at dusk,[U+1F306],travel and places,travel and places
+sunset over buildings ,[U+1F307],travel and places,travel and places
+bridge at night,[U+1F309],travel and places,travel and places
+hot springs,[U+2668],travel and places,travel and places
+milky way,[U+1F30C],travel and places,travel and places
+carousel horse,[U+1F3A0],travel and places,travel and places
+ferris wheel,[U+1F3A1],travel and places,travel and places
+roller coaster,[U+1F3A2],travel and places,travel and places
+barber pole,[U+1F488],travel and places,travel and places
+circus tent,[U+1F3AA],travel and places,travel and places
+performing arts,[U+1F3AD],travel and places,travel and places
+frame with picture,[U+1F5BC],travel and places,travel and places
+artist palette,[U+1F3A8],travel and places,travel and places
+slot machine,[U+1F3B0],travel and places,travel and places
+steam locomotive ,[U+1F682],travel and places,travel and places
+railway car,[U+1F683],travel and places,travel and places
+high-speed train,[U+1F684],travel and places,travel and places
+high-speed train with bullet nose,[U+1F685],travel and places,travel and places
+train,[U+1F686],travel and places,travel and places
+metro,[U+1F687],travel and places,travel and places
+light rail,[U+1F688],travel and places,travel and places
+station,[U+1F689],travel and places,travel and places
+tram,[U+1F68A],travel and places,travel and places
+monorail,[U+1F69D],travel and places,travel and places
+mountain railway,[U+1F69E],travel and places,travel and places
+tram car,[U+1F68B],travel and places,travel and places
+bus,[U+1F68C],travel and places,travel and places
+oncoming bus,[U+1F68D],travel and places,travel and places
+trolleybus,[U+1F68E],travel and places,travel and places
+minibus,[U+1F690],travel and places,travel and places
+ambulance,[U+1F691],travel and places,travel and places
+fire engine,[U+1F692],travel and places,travel and places
+police car,[U+1F693],travel and places,travel and places
+oncoming police car,[U+1F694],travel and places,travel and places
+taxi,[U+1F695],travel and places,travel and places
+oncoming taxi,[U+1F696],travel and places,travel and places
+automobile,[U+1F697],travel and places,travel and places
+oncoming automobile,[U+1F698],travel and places,travel and places
+recreational vehicle,[U+1F699],travel and places,travel and places
+delivery truck,[U+1F69A],travel and places,travel and places
+articulated lorry,[U+1F69B],travel and places,travel and places
+tractor,[U+1F69C],travel and places,travel and places
+bicycle,[U+1F6B2],travel and places,travel and places
+scooter ,[U+1F6F4],travel and places,travel and places
+motor scooter,[U+1F6F5],travel and places,travel and places
+racing car,[U+1F3CE],travel and places,travel and places
+racing motorcycle ,[U+1F3CD],travel and places,travel and places
+bus stop,[U+1F68F],travel and places,travel and places
+motorway,[U+1F6E3],travel and places,travel and places
+railway track,[U+1F6E4],travel and places,travel and places
+fuel pump,[U+26FD],travel and places,travel and places
+police cars revolving light ,[U+1F6A8],travel and places,travel and places
+horizontal traffic light,[U+1F6A5],travel and places,travel and places
+vertical traffic light,[U+1F6A6],travel and places,travel and places
+construction sign ,[U+1F6A7],travel and places,travel and places
+octagonal sign ,[U+1F6D1],travel and places,travel and places
+anchor,[U+2693],travel and places,travel and places
+sailboat,[U+26F5],travel and places,travel and places
+canoe,[U+1F6F6],travel and places,travel and places
+speedboat,[U+1F6A4],travel and places,travel and places
+passenger ship,[U+1F6F3],travel and places,travel and places
+ferry,[U+26F4],travel and places,travel and places
+motor boat,[U+1F6E5],travel and places,travel and places
+ship,[U+1F6A2],travel and places,travel and places
+airplane,[U+2708],travel and places,travel and places
+small airplane,[U+1F6E9],travel and places,travel and places
+airplane departure,[U+1F6EB],travel and places,travel and places
+airplane arriving ,[U+1F6EC],travel and places,travel and places
+seat,[U+1F4BA],travel and places,travel and places
+helicopter,[U+1F681],travel and places,travel and places
+suspension railway,[U+1F69F],travel and places,travel and places
+mountain cableway,[U+1F6A0],travel and places,travel and places
+aerial tramway,[U+1F6A1],travel and places,travel and places
+rocket,[U+1F680],travel and places,travel and places
+satellite,[U+1F6F0],travel and places,travel and places
+bellhop bell,[U+1F6CE],travel and places,travel and places
+door,[U+1F6AA],travel and places,travel and places
+sleeping accommodation ,[U+1F6CC],travel and places,travel and places
+bed,[U+1F6CF],travel and places,travel and places
+couch and lamp,[U+1F6CB],travel and places,travel and places
+toilet,[U+1F6BD],travel and places,travel and places
+shower,[U+1F6BF],travel and places,travel and places
+bath ,[U+1F6C0],travel and places,travel and places
+person taking bath, type-1-2,[U+1F6C0, U+1F3FB],travel and places,travel and places
+person taking bath, type-3,[U+1F6C0, U+1F3FC],travel and places,travel and places
+person taking bath, type-4,[U+1F6C0, U+1F3FD],travel and places,travel and places
+person taking bath, type-5,[U+1F6C0, U+1F3FE],travel and places,travel and places
+person taking bath, type-6,[U+1F6C0, U+1F3FF],travel and places,travel and places
+bathtub,[U+1F6C1],travel and places,travel and places
+hourglass,[U+231B],travel and places,travel and places
+hourglass with flowing sand,[U+23F3],travel and places,travel and places
+watch,[U+231A],travel and places,travel and places
+alarm clock,[U+23F0],travel and places,travel and places
+stopwatch,[U+23F1],travel and places,travel and places
+timer clock,[U+23F2],travel and places,travel and places
+mantelpiece clock,[U+1F570],travel and places,travel and places
+clock face twelve oclock ,[U+1F55B],travel and places,travel and places
+clock face twelve-thirty ,[U+1F567],travel and places,travel and places
+clock face one oclock ,[U+1F550],travel and places,travel and places
+clock face one-thirty ,[U+1F55C],travel and places,travel and places
+clock face two oclock ,[U+1F551],travel and places,travel and places
+clock face two-thirty ,[U+1F55D],travel and places,travel and places
+clock face three oclock ,[U+1F552],travel and places,travel and places
+clock face three-thirty ,[U+1F55E],travel and places,travel and places
+clock face four oclock ,[U+1F553],travel and places,travel and places
+clock face four-thirty ,[U+1F55F],travel and places,travel and places
+clock face five oclock ,[U+1F554],travel and places,travel and places
+clock face five-thirty ,[U+1F560],travel and places,travel and places
+clock face six oclock ,[U+1F555],travel and places,travel and places
+clock face six-thirty ,[U+1F561],travel and places,travel and places
+clock face seven oclock ,[U+1F556],travel and places,travel and places
+clock face seven-thirty ,[U+1F562],travel and places,travel and places
+clock face eight oclock ,[U+1F557],travel and places,travel and places
+clock face eight-thirty ,[U+1F563],travel and places,travel and places
+clock face nine oclock ,[U+1F558],travel and places,travel and places
+clock face nine-thirty ,[U+1F564],travel and places,travel and places
+clock face ten oclock ,[U+1F559],travel and places,travel and places
+clock face ten-thirty ,[U+1F565],travel and places,travel and places
+clock face eleven oclock ,[U+1F55A],travel and places,travel and places
+clock face eleven-thirty ,[U+1F566],travel and places,travel and places
+new moon symbol ,[U+1F311],travel and places,travel and places
+waxing crescent moon symbol ,[U+1F312],travel and places,travel and places
+first quarter moon symbol ,[U+1F313],travel and places,travel and places
+waxing gibbous moon symbol ,[U+1F314],travel and places,travel and places
+full moon symbol ,[U+1F315],travel and places,travel and places
+waning gibbous moon symbol ,[U+1F316],travel and places,travel and places
+last quarter moon symbol ,[U+1F317],travel and places,travel and places
+waning crescent moon symbol ,[U+1F318],travel and places,travel and places
+crescent moon,[U+1F319],travel and places,travel and places
+new moon with face ,[U+1F31A],travel and places,travel and places
+first quarter moon with face,[U+1F31B],travel and places,travel and places
+last quarter moon with face,[U+1F31C],travel and places,travel and places
+thermometer,[U+1F321],travel and places,travel and places
+black sun with rays ,[U+2600],travel and places,travel and places
+full moon with face,[U+1F31D],travel and places,travel and places
+sun with face,[U+1F31E],travel and places,travel and places
+white medium star,[U+2B50],travel and places,travel and places
+glowing star,[U+1F31F],travel and places,travel and places
+shooting star,[U+1F320],travel and places,travel and places
+cloud,[U+2601],travel and places,travel and places
+sun behind cloud,[U+26C5],travel and places,travel and places
+thunder cloud and rain ,[U+26C8],travel and places,travel and places
+white sun with small cloud ,[U+1F324],travel and places,travel and places
+white sun behind cloud ,[U+1F325],travel and places,travel and places
+white sun behind cloud with rain ,[U+1F326],travel and places,travel and places
+cloud with rain,[U+1F327],travel and places,travel and places
+cloud with snow,[U+1F328],travel and places,travel and places
+cloud with lightning,[U+1F329],travel and places,travel and places
+cloud with tornado ,[U+1F32A],travel and places,travel and places
+fog,[U+1F32B],travel and places,travel and places
+wind blowing face ,[U+1F32C],travel and places,travel and places
+cyclone,[U+1F300],travel and places,travel and places
+rainbow,[U+1F308],travel and places,travel and places
+closed umbrella,[U+1F302],travel and places,travel and places
+umbrella,[U+2602],travel and places,travel and places
+umbrella with rain drops,[U+2614],travel and places,travel and places
+umbrella on ground,[U+26F1],travel and places,travel and places
+high voltage sign ,[U+26A1],travel and places,travel and places
+snowflake,[U+2744],travel and places,travel and places
+snowman,[U+2603],travel and places,travel and places
+snowman without snow,[U+26C4],travel and places,travel and places
+comet,[U+2604],travel and places,travel and places
+fire,[U+1F525],travel and places,travel and places
+droplet,[U+1F4A7],travel and places,travel and places
+water wave,[U+1F30A],travel and places,travel and places
+jack-o-lantern,[U+1F383],activities,activities
+christmas tree,[U+1F384],activities,activities
+fireworks,[U+1F386],activities,activities
+firework sparkler ,[U+1F387],activities,activities
+sparkles,[U+2728],activities,activities
+balloon,[U+1F388],activities,activities
+party popper,[U+1F389],activities,activities
+confetti ball,[U+1F38A],activities,activities
+tanabata tree,[U+1F38B],activities,activities
+pine decoration,[U+1F38D],activities,activities
+japanese dolls,[U+1F38E],activities,activities
+carp streamer,[U+1F38F],activities,activities
+wind chime,[U+1F390],activities,activities
+moon viewing ceremony ,[U+1F391],activities,activities
+ribbon,[U+1F380],activities,activities
+wrapped present,[U+1F381],activities,activities
+reminder ribbon,[U+1F397],activities,activities
+admission tickets,[U+1F39F],activities,activities
+ticket,[U+1F3AB],activities,activities
+military medal,[U+1F396],activities,activities
+trophy,[U+1F3C6],activities,activities
+sports medal,[U+1F3C5],activities,activities
+first place medal ,[U+1F947],activities,activities
+second place medal ,[U+1F948],activities,activities
+third place medal ,[U+1F949],activities,activities
+soccer ball,[U+26BD],activities,activities
+baseball,[U+26BE],activities,activities
+basketball and hoop ,[U+1F3C0],activities,activities
+volleyball,[U+1F3D0],activities,activities
+american football,[U+1F3C8],activities,activities
+rugby football,[U+1F3C9],activities,activities
+tennis racquet and ball ,[U+1F3BE],activities,activities
+billiards,[U+1F3B1],activities,activities
+bowling,[U+1F3B3],activities,activities
+cricket bat and ball ,[U+1F3CF],activities,activities
+field hockey stick and ball ,[U+1F3D1],activities,activities
+ice hockey stick and puck,[U+1F3D2],activities,activities
+table tennis paddle and ball ,[U+1F3D3],activities,activities
+badminton racquet and shuttlecock ,[U+1F3F8],activities,activities
+boxing glove,[U+1F94A],activities,activities
+martial arts uniform,[U+1F94B],activities,activities
+goal net,[U+1F945],activities,activities
+direct hit,[U+1F3AF],activities,activities
+flag in hole,[U+26F3],activities,activities
+ice skate,[U+26F8],activities,activities
+fishing pole and fish ,[U+1F3A3],activities,activities
+running shirt with sash ,[U+1F3BD],activities,activities
+ski and ski boot ,[U+1F3BF],activities,activities
+fencer ,[U+1F93A],activities,activities
+horse racing,[U+1F3C7],activities,activities
+skier,[U+26F7],activities,activities
+snowboarder,[U+1F3C2],activities,activities
+golfer ,[U+1F3CC],activities,activities
+surfer ,[U+1F3C4],activities,activities
+person surfing, type-1-2,[U+1F3C4, U+1F3FB],activities,activities
+person surfing, type-3,[U+1F3C4, U+1F3FC],activities,activities
+person surfing, type-4,[U+1F3C4, U+1F3FD],activities,activities
+person surfing, type-5,[U+1F3C4, U+1F3FE],activities,activities
+person surfing, type-6,[U+1F3C4, U+1F3FF],activities,activities
+rowboat ,[U+1F6A3],activities,activities
+person rowing boat, type-1-2,[U+1F6A3, U+1F3FB],activities,activities
+person rowing boat, type-3,[U+1F6A3, U+1F3FC],activities,activities
+person rowing boat, type-4,[U+1F6A3, U+1F3FD],activities,activities
+person rowing boat, type-5,[U+1F6A3, U+1F3FE],activities,activities
+person rowing boat, type-6,[U+1F6A3, U+1F3FF],activities,activities
+swimmer ,[U+1F3CA],activities,activities
+person swimming, type-1-2,[U+1F3CA, U+1F3FB],activities,activities
+person swimming, type-3,[U+1F3CA, U+1F3FC],activities,activities
+person swimming, type-4,[U+1F3CA, U+1F3FD],activities,activities
+person swimming, type-5,[U+1F3CA, U+1F3FE],activities,activities
+person swimming, type-6,[U+1F3CA, U+1F3FF],activities,activities
+person with ball,[U+26F9],activities,activities
+person with ball, type-1-2,[U+26F9, U+1F3FB],activities,activities
+person with ball, type-3,[U+26F9, U+1F3FC],activities,activities
+person with ball, type-4,[U+26F9, U+1F3FD],activities,activities
+person with ball, type-5,[U+26F9, U+1F3FE],activities,activities
+person with ball, type-6,[U+26F9, U+1F3FF],activities,activities
+weight lifter ,[U+1F3CB],activities,activities
+person weight lifting, type-1-2,[U+1F3CB, U+1F3FB],activities,activities
+person weight lifting, type-3,[U+1F3CB, U+1F3FC],activities,activities
+person weight lifting, type-4,[U+1F3CB, U+1F3FD],activities,activities
+person weight lifting, type-5,[U+1F3CB, U+1F3FE],activities,activities
+person weight lifting, type-6,[U+1F3CB, U+1F3FF],activities,activities
+bicyclist ,[U+1F6B4],activities,activities
+person biking, type-1-2,[U+1F6B4, U+1F3FB],activities,activities
+person biking, type-3,[U+1F6B4, U+1F3FC],activities,activities
+person biking, type-4,[U+1F6B4, U+1F3FD],activities,activities
+person biking, type-5,[U+1F6B4, U+1F3FE],activities,activities
+person biking, type-6,[U+1F6B4, U+1F3FF],activities,activities
+mountain bicyclist ,[U+1F6B5],activities,activities
+person mountain biking, type-1-2,[U+1F6B5, U+1F3FB],activities,activities
+person mountain biking, type-3,[U+1F6B5, U+1F3FC],activities,activities
+person mountain biking, type-4,[U+1F6B5, U+1F3FD],activities,activities
+person mountain biking, type-5,[U+1F6B5, U+1F3FE],activities,activities
+person mountain biking, type-6,[U+1F6B5, U+1F3FF],activities,activities
+person doing cartwheel,[U+1F938],activities,activities
+person doing cartwheel, type-1-2,[U+1F938, U+1F3FB],activities,activities
+person doing cartwheel, type-3,[U+1F938, U+1F3FC],activities,activities
+person doing cartwheel, type-4,[U+1F938, U+1F3FD],activities,activities
+person doing cartwheel, type-5,[U+1F938, U+1F3FE],activities,activities
+person doing cartwheel, type-6,[U+1F938, U+1F3FF],activities,activities
+wrestlers ,[U+1F93C],activities,activities
+people wrestling, type-1-2,[U+1F93C, U+1F3FB],activities,activities
+people wrestling, type-3,[U+1F93C, U+1F3FC],activities,activities
+people wrestling, type-4,[U+1F93C, U+1F3FD],activities,activities
+people wrestling, type-5,[U+1F93C, U+1F3FE],activities,activities
+people wrestling, type-6,[U+1F93C, U+1F3FF],activities,activities
+water polo ,[U+1F93D],activities,activities
+person playing water polo, type-1-2,[U+1F93D, U+1F3FB],activities,activities
+person playing water polo, type-3,[U+1F93D, U+1F3FC],activities,activities
+person playing water polo, type-4,[U+1F93D, U+1F3FD],activities,activities
+person playing water polo, type-5,[U+1F93D, U+1F3FE],activities,activities
+person playing water polo, type-6,[U+1F93D, U+1F3FF],activities,activities
+handball ,[U+1F93E],activities,activities
+person playing handball, type-1-2,[U+1F93E, U+1F3FB],activities,activities
+person playing handball, type-3,[U+1F93E, U+1F3FC],activities,activities
+person playing handball, type-4,[U+1F93E, U+1F3FD],activities,activities
+person playing handball, type-5,[U+1F93E, U+1F3FE],activities,activities
+person playing handball, type-6,[U+1F93E, U+1F3FF],activities,activities
+juggling ,[U+1F939],activities,activities
+person juggling, type-1-2,[U+1F939, U+1F3FB],activities,activities
+person juggling, type-3,[U+1F939, U+1F3FC],activities,activities
+person juggling, type-4,[U+1F939, U+1F3FD],activities,activities
+person juggling, type-5,[U+1F939, U+1F3FE],activities,activities
+person juggling, type-6,[U+1F939, U+1F3FF],activities,activities
+video game,[U+1F3AE],activities,activities
+joystick,[U+1F579],activities,activities
+game die,[U+1F3B2],activities,activities
+black spade suit ,[U+2660],activities,activities
+black heart suit ,[U+2665],activities,activities
+black diamond suit ,[U+2666],activities,activities
+black club suit ,[U+2663],activities,activities
+playing card black joker ,[U+1F0CF],activities,activities
+mahjong tile red dragon ,[U+1F004],activities,activities
+flower playing cards,[U+1F3B4],activities,activities
+speaker with cancellation stroke ,[U+1F507],objects,objects
+speaker,[U+1F508],objects,objects
+speaker with one sound wave ,[U+1F509],objects,objects
+speaker with three sound waves ,[U+1F50A],objects,objects
+public address loudspeaker ,[U+1F4E2],objects,objects
+cheering megaphone ,[U+1F4E3],objects,objects
+postal horn,[U+1F4EF],objects,objects
+bell,[U+1F514],objects,objects
+bell with cancellation stroke ,[U+1F515],objects,objects
+musical score,[U+1F3BC],objects,objects
+musical note,[U+1F3B5],objects,objects
+multiple musical notes ,[U+1F3B6],objects,objects
+studio microphone,[U+1F399],objects,objects
+level slider,[U+1F39A],objects,objects
+control knobs,[U+1F39B],objects,objects
+microphone,[U+1F3A4],objects,objects
+headphone,[U+1F3A7],objects,objects
+radio,[U+1F4FB],objects,objects
+saxophone,[U+1F3B7],objects,objects
+guitar,[U+1F3B8],objects,objects
+musical keyboard,[U+1F3B9],objects,objects
+trumpet,[U+1F3BA],objects,objects
+violin,[U+1F3BB],objects,objects
+drum with drumsticks ,[U+1F941],objects,objects
+mobile phone,[U+1F4F1],objects,objects
+mobile phone with rightwards arrow at left ,[U+1F4F2],objects,objects
+black telephone ,[U+260E],objects,objects
+telephone receiver,[U+1F4DE],objects,objects
+pager,[U+1F4DF],objects,objects
+fax machine,[U+1F4E0],objects,objects
+battery,[U+1F50B],objects,objects
+electric plug,[U+1F50C],objects,objects
+personal computer ,[U+1F4BB],objects,objects
+desktop computer,[U+1F5A5],objects,objects
+printer,[U+1F5A8],objects,objects
+keyboard,[U+2328],objects,objects
+three button mouse ,[U+1F5B1],objects,objects
+trackball,[U+1F5B2],objects,objects
+minidisc,[U+1F4BD],objects,objects
+floppy disk,[U+1F4BE],objects,objects
+optical disc,[U+1F4BF],objects,objects
+dvd,[U+1F4C0],objects,objects
+movie camera,[U+1F3A5],objects,objects
+film frames,[U+1F39E],objects,objects
+film projector,[U+1F4FD],objects,objects
+clapper board,[U+1F3AC],objects,objects
+television,[U+1F4FA],objects,objects
+camera,[U+1F4F7],objects,objects
+camera with flash,[U+1F4F8],objects,objects
+video camera,[U+1F4F9],objects,objects
+videocassette,[U+1F4FC],objects,objects
+left-pointing magnifying glass,[U+1F50D],objects,objects
+right-pointing magnifying glass,[U+1F50E],objects,objects
+microscope,[U+1F52C],objects,objects
+telescope,[U+1F52D],objects,objects
+satellite antenna,[U+1F4E1],objects,objects
+candle,[U+1F56F],objects,objects
+electric light bulb ,[U+1F4A1],objects,objects
+electric torch ,[U+1F526],objects,objects
+izakaya lantern ,[U+1F3EE],objects,objects
+notebook with decorative cover,[U+1F4D4],objects,objects
+closed book,[U+1F4D5],objects,objects
+open book,[U+1F4D6],objects,objects
+green book,[U+1F4D7],objects,objects
+blue book,[U+1F4D8],objects,objects
+orange book,[U+1F4D9],objects,objects
+books,[U+1F4DA],objects,objects
+notebook,[U+1F4D3],objects,objects
+ledger,[U+1F4D2],objects,objects
+page with curl,[U+1F4C3],objects,objects
+scroll,[U+1F4DC],objects,objects
+page facing up,[U+1F4C4],objects,objects
+newspaper,[U+1F4F0],objects,objects
+rolled-up newspaper,[U+1F5DE],objects,objects
+bookmark tabs,[U+1F4D1],objects,objects
+bookmark,[U+1F516],objects,objects
+label,[U+1F3F7],objects,objects
+money bag,[U+1F4B0],objects,objects
+banknote with yen sign ,[U+1F4B4],objects,objects
+banknote with dollar sign ,[U+1F4B5],objects,objects
+banknote with euro sign ,[U+1F4B6],objects,objects
+banknote with pound sign ,[U+1F4B7],objects,objects
+money with wings,[U+1F4B8],objects,objects
+credit card,[U+1F4B3],objects,objects
+chart with upwards trend and yen sign ,[U+1F4B9],objects,objects
+currency exchange,[U+1F4B1],objects,objects
+heavy dollar sign,[U+1F4B2],objects,objects
+envelope,[U+2709],objects,objects
+e-mail symbol ,[U+1F4E7],objects,objects
+incoming envelope,[U+1F4E8],objects,objects
+envelope with downwards arrow above ,[U+1F4E9],objects,objects
+outbox tray,[U+1F4E4],objects,objects
+inbox tray,[U+1F4E5],objects,objects
+package,[U+1F4E6],objects,objects
+closed mailbox with raised flag,[U+1F4EB],objects,objects
+closed mailbox with lowered flag,[U+1F4EA],objects,objects
+open mailbox with raised flag,[U+1F4EC],objects,objects
+open mailbox with lowered flag,[U+1F4ED],objects,objects
+postbox,[U+1F4EE],objects,objects
+ballot box with ballot,[U+1F5F3],objects,objects
+pencil,[U+270F],objects,objects
+black nib,[U+2712],objects,objects
+lower left fountain pen ,[U+1F58B],objects,objects
+lower left ballpoint pen ,[U+1F58A],objects,objects
+lower left paintbrush ,[U+1F58C],objects,objects
+lower left crayon ,[U+1F58D],objects,objects
+memo,[U+1F4DD],objects,objects
+briefcase,[U+1F4BC],objects,objects
+file folder,[U+1F4C1],objects,objects
+open file folder,[U+1F4C2],objects,objects
+card index dividers,[U+1F5C2],objects,objects
+calendar,[U+1F4C5],objects,objects
+tear-off calendar,[U+1F4C6],objects,objects
+spiral note pad ,[U+1F5D2],objects,objects
+spiral calendar pad ,[U+1F5D3],objects,objects
+card index,[U+1F4C7],objects,objects
+chart with upwards trend ,[U+1F4C8],objects,objects
+chart with downwards trend ,[U+1F4C9],objects,objects
+bar chart,[U+1F4CA],objects,objects
+clipboard,[U+1F4CB],objects,objects
+pushpin,[U+1F4CC],objects,objects
+round pushpin,[U+1F4CD],objects,objects
+paperclip,[U+1F4CE],objects,objects
+linked paperclips,[U+1F587],objects,objects
+straight ruler,[U+1F4CF],objects,objects
+triangular ruler,[U+1F4D0],objects,objects
+black scissors ,[U+2702],objects,objects
+card file box,[U+1F5C3],objects,objects
+file cabinet,[U+1F5C4],objects,objects
+wastebasket,[U+1F5D1],objects,objects
+lock,[U+1F512],objects,objects
+open lock,[U+1F513],objects,objects
+lock with ink pen ,[U+1F50F],objects,objects
+closed lock with key,[U+1F510],objects,objects
+key,[U+1F511],objects,objects
+old key,[U+1F5DD],objects,objects
+hammer,[U+1F528],objects,objects
+pick,[U+26CF],objects,objects
+hammer and pick,[U+2692],objects,objects
+hammer and wrench,[U+1F6E0],objects,objects
+dagger knife ,[U+1F5E1],objects,objects
+crossed swords,[U+2694],objects,objects
+pistol,[U+1F52B],objects,objects
+bow and arrow,[U+1F3F9],objects,objects
+shield,[U+1F6E1],objects,objects
+wrench,[U+1F527],objects,objects
+nut and bolt,[U+1F529],objects,objects
+gear,[U+2699],objects,objects
+compression,[U+1F5DC],objects,objects
+alembic,[U+2697],objects,objects
+scales ,[U+2696],objects,objects
+link symbol ,[U+1F517],objects,objects
+chains,[U+26D3],objects,objects
+syringe,[U+1F489],objects,objects
+pill,[U+1F48A],objects,objects
+smoking symbol ,[U+1F6AC],objects,objects
+coffin,[U+26B0],objects,objects
+funeral urn,[U+26B1],objects,objects
+moyai ,[U+1F5FF],objects,objects
+oil drum,[U+1F6E2],objects,objects
+crystal ball,[U+1F52E],objects,objects
+shopping trolley ,[U+1F6D2],objects,objects
+automated teller machine ,[U+1F3E7],symbols,symbols
+put litter in its place symbol ,[U+1F6AE],symbols,symbols
+potable water symbol ,[U+1F6B0],symbols,symbols
+wheelchair symbol ,[U+267F],symbols,symbols
+mens symbol ,[U+1F6B9],symbols,symbols
+womens symbol ,[U+1F6BA],symbols,symbols
+restroom,[U+1F6BB],symbols,symbols
+baby symbol,[U+1F6BC],symbols,symbols
+water closet,[U+1F6BE],symbols,symbols
+passport control,[U+1F6C2],symbols,symbols
+customs,[U+1F6C3],symbols,symbols
+baggage claim,[U+1F6C4],symbols,symbols
+left luggage,[U+1F6C5],symbols,symbols
+warning sign ,[U+26A0],symbols,symbols
+children crossing,[U+1F6B8],symbols,symbols
+no entry,[U+26D4],symbols,symbols
+no entry sign ,[U+1F6AB],symbols,symbols
+no bicycles,[U+1F6B3],symbols,symbols
+no smoking symbol ,[U+1F6AD],symbols,symbols
+do not litter symbol ,[U+1F6AF],symbols,symbols
+non-potable water symbol ,[U+1F6B1],symbols,symbols
+no pedestrians,[U+1F6B7],symbols,symbols
+no mobile phones,[U+1F4F5],symbols,symbols
+no one under eighteen symbol ,[U+1F51E],symbols,symbols
+radioactive sign ,[U+2622],symbols,symbols
+biohazard sign ,[U+2623],symbols,symbols
+upwards black arrow ,[U+2B06],symbols,symbols
+north east arrow ,[U+2197],symbols,symbols
+black rightwards arrow ,[U+27A1],symbols,symbols
+south east arrow ,[U+2198],symbols,symbols
+downwards black arrow ,[U+2B07],symbols,symbols
+south west arrow ,[U+2199],symbols,symbols
+leftwards black arrow ,[U+2B05],symbols,symbols
+north west arrow ,[U+2196],symbols,symbols
+up down arrow ,[U+2195],symbols,symbols
+left right arrow ,[U+2194],symbols,symbols
+leftwards arrow with hook ,[U+21A9],symbols,symbols
+rightwards arrow with hook ,[U+21AA],symbols,symbols
+arrow pointing rightwards then curving upwards ,[U+2934],symbols,symbols
+arrow pointing rightwards then curving downwards ,[U+2935],symbols,symbols
+clockwise downwards and upwards open circle arrows ,[U+1F503],symbols,symbols
+anticlockwise downwards and upwards open circle arrows ,[U+1F504],symbols,symbols
+back with leftwards arrow above ,[U+1F519],symbols,symbols
+end with leftwards arrow above ,[U+1F51A],symbols,symbols
+on with exclamation mark with left right arrow above ,[U+1F51B],symbols,symbols
+soon with rightwards arrow above ,[U+1F51C],symbols,symbols
+top with upwards arrow above ,[U+1F51D],symbols,symbols
+place of worship,[U+1F6D0],symbols,symbols
+atom symbol,[U+269B],symbols,symbols
+om symbol ,[U+1F549],symbols,symbols
+star of david,[U+2721],symbols,symbols
+wheel of dharma,[U+2638],symbols,symbols
+yin yang,[U+262F],symbols,symbols
+latin cross,[U+271D],symbols,symbols
+orthodox cross,[U+2626],symbols,symbols
+star and crescent,[U+262A],symbols,symbols
+peace symbol,[U+262E],symbols,symbols
+menorah with nine branches ,[U+1F54E],symbols,symbols
+six pointed star with middle dot ,[U+1F52F],symbols,symbols
+black universal recycling symbol ,[U+267B],symbols,symbols
+name badge,[U+1F4DB],symbols,symbols
+fleur-de-lis,[U+269C],symbols,symbols
+japanese symbol for beginner,[U+1F530],symbols,symbols
+trident emblem,[U+1F531],symbols,symbols
+heavy large circle,[U+2B55],symbols,symbols
+white heavy check mark,[U+2705],symbols,symbols
+ballot box with check,[U+2611],symbols,symbols
+heavy check mark,[U+2714],symbols,symbols
+heavy multiplication x,[U+2716],symbols,symbols
+cross mark,[U+274C],symbols,symbols
+negative squared cross mark ,[U+274E],symbols,symbols
+heavy plus sign,[U+2795],symbols,symbols
+heavy minus sign,[U+2796],symbols,symbols
+heavy division sign,[U+2797],symbols,symbols
+curly loop,[U+27B0],symbols,symbols
+double curly loop,[U+27BF],symbols,symbols
+part alternation mark,[U+303D],symbols,symbols
+eight spoked asterisk ,[U+2733],symbols,symbols
+eight pointed black star ,[U+2734],symbols,symbols
+sparkle,[U+2747],symbols,symbols
+double exclamation mark,[U+203C],symbols,symbols
+exclamation question mark,[U+2049],symbols,symbols
+black question mark ornament ,[U+2753],symbols,symbols
+white question mark ornament ,[U+2754],symbols,symbols
+white exclamation mark ornament ,[U+2755],symbols,symbols
+heavy exclamation mark symbol ,[U+2757],symbols,symbols
+wavy dash,[U+3030],symbols,symbols
+copyright sign ,[U+00A9],symbols,symbols
+registered sign ,[U+00AE],symbols,symbols
+trade mark sign ,[U+2122],symbols,symbols
+aries,[U+2648],symbols,symbols
+taurus,[U+2649],symbols,symbols
+gemini,[U+264A],symbols,symbols
+cancer,[U+264B],symbols,symbols
+leo,[U+264C],symbols,symbols
+virgo,[U+264D],symbols,symbols
+libra,[U+264E],symbols,symbols
+scorpius,[U+264F],symbols,symbols
+sagittarius,[U+2650],symbols,symbols
+capricorn,[U+2651],symbols,symbols
+aquarius,[U+2652],symbols,symbols
+pisces,[U+2653],symbols,symbols
+ophiuchus,[U+26CE],symbols,symbols
+twisted rightwards arrows ,[U+1F500],symbols,symbols
+clockwise rightwards and leftwards open circle arrows ,[U+1F501],symbols,symbols
+clockwise rightwards and leftwards open circle arrows with circled one overlay ,[U+1F502],symbols,symbols
+black right-pointing triangle ,[U+25B6],symbols,symbols
+black right-pointing double triangle ,[U+23E9],symbols,symbols
+black right-pointing double triangle with vertical bar ,[U+23ED],symbols,symbols
+black right-pointing triangle with double vertical bar ,[U+23EF],symbols,symbols
+black left-pointing triangle ,[U+25C0],symbols,symbols
+black left-pointing double triangle ,[U+23EA],symbols,symbols
+black left-pointing double triangle with vertical bar ,[U+23EE],symbols,symbols
+up-pointing small red triangle ,[U+1F53C],symbols,symbols
+black up-pointing double triangle ,[U+23EB],symbols,symbols
+down-pointing small red triangle ,[U+1F53D],symbols,symbols
+black down-pointing double triangle ,[U+23EC],symbols,symbols
+double vertical bar ,[U+23F8],symbols,symbols
+black square for stop ,[U+23F9],symbols,symbols
+black circle for record ,[U+23FA],symbols,symbols
+eject symbol ,[U+23CF],symbols,symbols
+cinema,[U+1F3A6],symbols,symbols
+low brightness symbol ,[U+1F505],symbols,symbols
+high brightness symbol ,[U+1F506],symbols,symbols
+antenna with bars ,[U+1F4F6],symbols,symbols
+vibration mode,[U+1F4F3],symbols,symbols
+mobile phone off,[U+1F4F4],symbols,symbols
+keycap #,[U+0023, U+FE0F, U+20E3],symbols,symbols
+keycap *,[U+002A, U+FE0F, U+20E3],symbols,symbols
+keycap 0,[U+0030, U+FE0F, U+20E3],symbols,symbols
+keycap 1,[U+0031, U+FE0F, U+20E3],symbols,symbols
+keycap 2,[U+0032, U+FE0F, U+20E3],symbols,symbols
+keycap 3,[U+0033, U+FE0F, U+20E3],symbols,symbols
+keycap 4,[U+0034, U+FE0F, U+20E3],symbols,symbols
+keycap 5,[U+0035, U+FE0F, U+20E3],symbols,symbols
+keycap 6,[U+0036, U+FE0F, U+20E3],symbols,symbols
+keycap 7,[U+0037, U+FE0F, U+20E3],symbols,symbols
+keycap 8,[U+0038, U+FE0F, U+20E3],symbols,symbols
+keycap 9,[U+0039, U+FE0F, U+20E3],symbols,symbols
+keycap ten ,[U+1F51F],symbols,symbols
+hundred points symbol ,[U+1F4AF],symbols,symbols
+input symbol for latin capital letters ,[U+1F520],symbols,symbols
+input symbol for latin small letters ,[U+1F521],symbols,symbols
+input symbol for numbers ,[U+1F522],symbols,symbols
+input symbol for symbols ,[U+1F523],symbols,symbols
+input symbol for latin letters ,[U+1F524],symbols,symbols
+negative squared latin capital letter a ,[U+1F170],symbols,symbols
+negative squared ab ,[U+1F18E],symbols,symbols
+negative squared latin capital letter b ,[U+1F171],symbols,symbols
+squared cl,[U+1F191],symbols,symbols
+squared cool,[U+1F192],symbols,symbols
+squared free,[U+1F193],symbols,symbols
+information source,[U+2139],symbols,symbols
+squared id,[U+1F194],symbols,symbols
+circled latin capital letter m ,[U+24C2],symbols,symbols
+squared new,[U+1F195],symbols,symbols
+squared ng,[U+1F196],symbols,symbols
+negative squared latin capital letter o ,[U+1F17E],symbols,symbols
+squared ok,[U+1F197],symbols,symbols
+negative squared latin capital letter p ,[U+1F17F],symbols,symbols
+squared sos,[U+1F198],symbols,symbols
+squared up with exclamation mark ,[U+1F199],symbols,symbols
+squared vs,[U+1F19A],symbols,symbols
+squared katakana koko,[U+1F201],symbols,symbols
+squared katakana sa,[U+1F202],symbols,symbols
+squared cjk unified ideograph-6708 ,[U+1F237],symbols,symbols
+squared cjk unified ideograph-6709 ,[U+1F236],symbols,symbols
+squared cjk unified ideograph-6307 ,[U+1F22F],symbols,symbols
+circled ideograph advantage ,[U+1F250],symbols,symbols
+squared cjk unified ideograph-5272 ,[U+1F239],symbols,symbols
+squared cjk unified ideograph-7121 ,[U+1F21A],symbols,symbols
+squared cjk unified ideograph-7981 ,[U+1F232],symbols,symbols
+circled ideograph accept ,[U+1F251],symbols,symbols
+squared cjk unified ideograph-7533 ,[U+1F238],symbols,symbols
+squared cjk unified ideograph-5408 ,[U+1F234],symbols,symbols
+squared cjk unified ideograph-7a7a ,[U+1F233],symbols,symbols
+circled ideograph congratulation ,[U+3297],symbols,symbols
+circled ideograph secret ,[U+3299],symbols,symbols
+squared cjk unified ideograph-55b6 ,[U+1F23A],symbols,symbols
+squared cjk unified ideograph-6e80 ,[U+1F235],symbols,symbols
+black small square,[U+25AA],symbols,symbols
+white small square,[U+25AB],symbols,symbols
+white medium square,[U+25FB],symbols,symbols
+black medium square,[U+25FC],symbols,symbols
+white medium small square ,[U+25FD],symbols,symbols
+black medium small square ,[U+25FE],symbols,symbols
+black large square,[U+2B1B],symbols,symbols
+white large square,[U+2B1C],symbols,symbols
+large orange diamond,[U+1F536],symbols,symbols
+large blue diamond,[U+1F537],symbols,symbols
+small orange diamond,[U+1F538],symbols,symbols
+small blue diamond,[U+1F539],symbols,symbols
+up-pointing red triangle ,[U+1F53A],symbols,symbols
+down-pointing red triangle ,[U+1F53B],symbols,symbols
+diamond shape with a dot inside ,[U+1F4A0],symbols,symbols
+radio button,[U+1F518],symbols,symbols
+black square button,[U+1F532],symbols,symbols
+white square button,[U+1F533],symbols,symbols
+medium white circle ,[U+26AA],symbols,symbols
+medium black circle ,[U+26AB],symbols,symbols
+large red circle ,[U+1F534],symbols,symbols
+large blue circle ,[U+1F535],symbols,symbols
+chequered flag,[U+1F3C1],flags,flags
+triangular flag on post ,[U+1F6A9],flags,flags
+crossed flags,[U+1F38C],flags,flags
+waving black flag,[U+1F3F4],flags,flags
+waving white flag,[U+1F3F3],flags,flags
+ascension island,[U+1F1E6, U+1F1E8],flags,flags
+andorra,[U+1F1E6, U+1F1E9],flags,flags
+united arab emirates,[U+1F1E6, U+1F1EA],flags,flags
+afghanistan,[U+1F1E6, U+1F1EB],flags,flags
+antigua ,[U+1F1E6, U+1F1EC],flags,flags
+anguilla,[U+1F1E6, U+1F1EE],flags,flags
+albania,[U+1F1E6, U+1F1F1],flags,flags
+armenia,[U+1F1E6, U+1F1F2],flags,flags
+angola,[U+1F1E6, U+1F1F4],flags,flags
+antarctica,[U+1F1E6, U+1F1F6],flags,flags
+argentina,[U+1F1E6, U+1F1F7],flags,flags
+american samoa,[U+1F1E6, U+1F1F8],flags,flags
+austria,[U+1F1E6, U+1F1F9],flags,flags
+australia,[U+1F1E6, U+1F1FA],flags,flags
+aruba,[U+1F1E6, U+1F1FC],flags,flags
+ã…land islands,[U+1F1E6, U+1F1FD],flags,flags
+azerbaijan,[U+1F1E6, U+1F1FF],flags,flags
+bosnia ,[U+1F1E7, U+1F1E6],flags,flags
+barbados,[U+1F1E7, U+1F1E7],flags,flags
+bangladesh,[U+1F1E7, U+1F1E9],flags,flags
+belgium,[U+1F1E7, U+1F1EA],flags,flags
+burkina faso,[U+1F1E7, U+1F1EB],flags,flags
+bulgaria,[U+1F1E7, U+1F1EC],flags,flags
+bahrain,[U+1F1E7, U+1F1ED],flags,flags
+burundi,[U+1F1E7, U+1F1EE],flags,flags
+benin,[U+1F1E7, U+1F1EF],flags,flags
+st. barthã©lemy,[U+1F1E7, U+1F1F1],flags,flags
+bermuda,[U+1F1E7, U+1F1F2],flags,flags
+brunei,[U+1F1E7, U+1F1F3],flags,flags
+bolivia,[U+1F1E7, U+1F1F4],flags,flags
+caribbean netherlands,[U+1F1E7, U+1F1F6],flags,flags
+brazil,[U+1F1E7, U+1F1F7],flags,flags
+bahamas,[U+1F1E7, U+1F1F8],flags,flags
+bhutan,[U+1F1E7, U+1F1F9],flags,flags
+bouvet island,[U+1F1E7, U+1F1FB],flags,flags
+botswana,[U+1F1E7, U+1F1FC],flags,flags
+belarus,[U+1F1E7, U+1F1FE],flags,flags
+belize,[U+1F1E7, U+1F1FF],flags,flags
+canada,[U+1F1E8, U+1F1E6],flags,flags
+cocos (keeling) islands,[U+1F1E8, U+1F1E8],flags,flags
+congo - kinshasa,[U+1F1E8, U+1F1E9],flags,flags
+central african republic,[U+1F1E8, U+1F1EB],flags,flags
+congo - brazzaville,[U+1F1E8, U+1F1EC],flags,flags
+switzerland,[U+1F1E8, U+1F1ED],flags,flags
+cã´te dâ€™ivoire,[U+1F1E8, U+1F1EE],flags,flags
+cook islands,[U+1F1E8, U+1F1F0],flags,flags
+chile,[U+1F1E8, U+1F1F1],flags,flags
+cameroon,[U+1F1E8, U+1F1F2],flags,flags
+china,[U+1F1E8, U+1F1F3],flags,flags
+colombia,[U+1F1E8, U+1F1F4],flags,flags
+clipperton island,[U+1F1E8, U+1F1F5],flags,flags
+costa rica,[U+1F1E8, U+1F1F7],flags,flags
+cuba,[U+1F1E8, U+1F1FA],flags,flags
+cape verde,[U+1F1E8, U+1F1FB],flags,flags
+curaã§ao,[U+1F1E8, U+1F1FC],flags,flags
+christmas island,[U+1F1E8, U+1F1FD],flags,flags
+cyprus,[U+1F1E8, U+1F1FE],flags,flags
+czech republic,[U+1F1E8, U+1F1FF],flags,flags
+germany,[U+1F1E9, U+1F1EA],flags,flags
+diego garcia,[U+1F1E9, U+1F1EC],flags,flags
+djibouti,[U+1F1E9, U+1F1EF],flags,flags
+denmark,[U+1F1E9, U+1F1F0],flags,flags
+dominica,[U+1F1E9, U+1F1F2],flags,flags
+dominican republic,[U+1F1E9, U+1F1F4],flags,flags
+algeria,[U+1F1E9, U+1F1FF],flags,flags
+ceuta ,[U+1F1EA, U+1F1E6],flags,flags
+ecuador,[U+1F1EA, U+1F1E8],flags,flags
+estonia,[U+1F1EA, U+1F1EA],flags,flags
+egypt,[U+1F1EA, U+1F1EC],flags,flags
+western sahara,[U+1F1EA, U+1F1ED],flags,flags
+eritrea,[U+1F1EA, U+1F1F7],flags,flags
+spain,[U+1F1EA, U+1F1F8],flags,flags
+ethiopia,[U+1F1EA, U+1F1F9],flags,flags
+european union,[U+1F1EA, U+1F1FA],flags,flags
+finland,[U+1F1EB, U+1F1EE],flags,flags
+fiji,[U+1F1EB, U+1F1EF],flags,flags
+falkland islands,[U+1F1EB, U+1F1F0],flags,flags
+micronesia,[U+1F1EB, U+1F1F2],flags,flags
+faroe islands,[U+1F1EB, U+1F1F4],flags,flags
+france,[U+1F1EB, U+1F1F7],flags,flags
+gabon,[U+1F1EC, U+1F1E6],flags,flags
+united kingdom,[U+1F1EC, U+1F1E7],flags,flags
+grenada,[U+1F1EC, U+1F1E9],flags,flags
+georgia,[U+1F1EC, U+1F1EA],flags,flags
+french guiana,[U+1F1EC, U+1F1EB],flags,flags
+guernsey,[U+1F1EC, U+1F1EC],flags,flags
+ghana,[U+1F1EC, U+1F1ED],flags,flags
+gibraltar,[U+1F1EC, U+1F1EE],flags,flags
+greenland,[U+1F1EC, U+1F1F1],flags,flags
+gambia,[U+1F1EC, U+1F1F2],flags,flags
+guinea,[U+1F1EC, U+1F1F3],flags,flags
+guadeloupe,[U+1F1EC, U+1F1F5],flags,flags
+equatorial guinea,[U+1F1EC, U+1F1F6],flags,flags
+greece,[U+1F1EC, U+1F1F7],flags,flags
+south georgia ,[U+1F1EC, U+1F1F8],flags,flags
+guatemala,[U+1F1EC, U+1F1F9],flags,flags
+guam,[U+1F1EC, U+1F1FA],flags,flags
+guinea-bissau,[U+1F1EC, U+1F1FC],flags,flags
+guyana,[U+1F1EC, U+1F1FE],flags,flags
+hong kong sar china,[U+1F1ED, U+1F1F0],flags,flags
+heard ,[U+1F1ED, U+1F1F2],flags,flags
+honduras,[U+1F1ED, U+1F1F3],flags,flags
+croatia,[U+1F1ED, U+1F1F7],flags,flags
+haiti,[U+1F1ED, U+1F1F9],flags,flags
+hungary,[U+1F1ED, U+1F1FA],flags,flags
+canary islands,[U+1F1EE, U+1F1E8],flags,flags
+indonesia,[U+1F1EE, U+1F1E9],flags,flags
+ireland,[U+1F1EE, U+1F1EA],flags,flags
+israel,[U+1F1EE, U+1F1F1],flags,flags
+isle of man,[U+1F1EE, U+1F1F2],flags,flags
+india,[U+1F1EE, U+1F1F3],flags,flags
+british indian ocean territory,[U+1F1EE, U+1F1F4],flags,flags
+iraq,[U+1F1EE, U+1F1F6],flags,flags
+iran,[U+1F1EE, U+1F1F7],flags,flags
+iceland,[U+1F1EE, U+1F1F8],flags,flags
+italy,[U+1F1EE, U+1F1F9],flags,flags
+jersey,[U+1F1EF, U+1F1EA],flags,flags
+jamaica,[U+1F1EF, U+1F1F2],flags,flags
+jordan,[U+1F1EF, U+1F1F4],flags,flags
+japan,[U+1F1EF, U+1F1F5],flags,flags
+kenya,[U+1F1F0, U+1F1EA],flags,flags
+kyrgyzstan,[U+1F1F0, U+1F1EC],flags,flags
+cambodia,[U+1F1F0, U+1F1ED],flags,flags
+kiribati,[U+1F1F0, U+1F1EE],flags,flags
+comoros,[U+1F1F0, U+1F1F2],flags,flags
+st. kitts ,[U+1F1F0, U+1F1F3],flags,flags
+north korea,[U+1F1F0, U+1F1F5],flags,flags
+south korea,[U+1F1F0, U+1F1F7],flags,flags
+kuwait,[U+1F1F0, U+1F1FC],flags,flags
+cayman islands,[U+1F1F0, U+1F1FE],flags,flags
+kazakhstan,[U+1F1F0, U+1F1FF],flags,flags
+laos,[U+1F1F1, U+1F1E6],flags,flags
+lebanon,[U+1F1F1, U+1F1E7],flags,flags
+st. lucia,[U+1F1F1, U+1F1E8],flags,flags
+liechtenstein,[U+1F1F1, U+1F1EE],flags,flags
+sri lanka,[U+1F1F1, U+1F1F0],flags,flags
+liberia,[U+1F1F1, U+1F1F7],flags,flags
+lesotho,[U+1F1F1, U+1F1F8],flags,flags
+lithuania,[U+1F1F1, U+1F1F9],flags,flags
+luxembourg,[U+1F1F1, U+1F1FA],flags,flags
+latvia,[U+1F1F1, U+1F1FB],flags,flags
+libya,[U+1F1F1, U+1F1FE],flags,flags
+morocco,[U+1F1F2, U+1F1E6],flags,flags
+monaco,[U+1F1F2, U+1F1E8],flags,flags
+moldova,[U+1F1F2, U+1F1E9],flags,flags
+montenegro,[U+1F1F2, U+1F1EA],flags,flags
+st. martin,[U+1F1F2, U+1F1EB],flags,flags
+madagascar,[U+1F1F2, U+1F1EC],flags,flags
+marshall islands,[U+1F1F2, U+1F1ED],flags,flags
+macedonia,[U+1F1F2, U+1F1F0],flags,flags
+mali,[U+1F1F2, U+1F1F1],flags,flags
+myanmar (burma),[U+1F1F2, U+1F1F2],flags,flags
+mongolia,[U+1F1F2, U+1F1F3],flags,flags
+macau sar china,[U+1F1F2, U+1F1F4],flags,flags
+northern mariana islands,[U+1F1F2, U+1F1F5],flags,flags
+martinique,[U+1F1F2, U+1F1F6],flags,flags
+mauritania,[U+1F1F2, U+1F1F7],flags,flags
+montserrat,[U+1F1F2, U+1F1F8],flags,flags
+malta,[U+1F1F2, U+1F1F9],flags,flags
+mauritius,[U+1F1F2, U+1F1FA],flags,flags
+maldives,[U+1F1F2, U+1F1FB],flags,flags
+malawi,[U+1F1F2, U+1F1FC],flags,flags
+mexico,[U+1F1F2, U+1F1FD],flags,flags
+malaysia,[U+1F1F2, U+1F1FE],flags,flags
+mozambique,[U+1F1F2, U+1F1FF],flags,flags
+namibia,[U+1F1F3, U+1F1E6],flags,flags
+new caledonia,[U+1F1F3, U+1F1E8],flags,flags
+niger,[U+1F1F3, U+1F1EA],flags,flags
+norfolk island,[U+1F1F3, U+1F1EB],flags,flags
+nigeria,[U+1F1F3, U+1F1EC],flags,flags
+nicaragua,[U+1F1F3, U+1F1EE],flags,flags
+netherlands,[U+1F1F3, U+1F1F1],flags,flags
+norway,[U+1F1F3, U+1F1F4],flags,flags
+nepal,[U+1F1F3, U+1F1F5],flags,flags
+nauru,[U+1F1F3, U+1F1F7],flags,flags
+niue,[U+1F1F3, U+1F1FA],flags,flags
+new zealand,[U+1F1F3, U+1F1FF],flags,flags
+oman,[U+1F1F4, U+1F1F2],flags,flags
+panama,[U+1F1F5, U+1F1E6],flags,flags
+peru,[U+1F1F5, U+1F1EA],flags,flags
+french polynesia,[U+1F1F5, U+1F1EB],flags,flags
+papua new guinea,[U+1F1F5, U+1F1EC],flags,flags
+philippines,[U+1F1F5, U+1F1ED],flags,flags
+pakistan,[U+1F1F5, U+1F1F0],flags,flags
+poland,[U+1F1F5, U+1F1F1],flags,flags
+st. pierre ,[U+1F1F5, U+1F1F2],flags,flags
+pitcairn islands,[U+1F1F5, U+1F1F3],flags,flags
+puerto rico,[U+1F1F5, U+1F1F7],flags,flags
+palestinian territories,[U+1F1F5, U+1F1F8],flags,flags
+portugal,[U+1F1F5, U+1F1F9],flags,flags
+palau,[U+1F1F5, U+1F1FC],flags,flags
+paraguay,[U+1F1F5, U+1F1FE],flags,flags
+qatar,[U+1F1F6, U+1F1E6],flags,flags
+rã©union,[U+1F1F7, U+1F1EA],flags,flags
+romania,[U+1F1F7, U+1F1F4],flags,flags
+serbia,[U+1F1F7, U+1F1F8],flags,flags
+russia,[U+1F1F7, U+1F1FA],flags,flags
+rwanda,[U+1F1F7, U+1F1FC],flags,flags
+saudi arabia,[U+1F1F8, U+1F1E6],flags,flags
+solomon islands,[U+1F1F8, U+1F1E7],flags,flags
+seychelles,[U+1F1F8, U+1F1E8],flags,flags
+sudan,[U+1F1F8, U+1F1E9],flags,flags
+sweden,[U+1F1F8, U+1F1EA],flags,flags
+singapore,[U+1F1F8, U+1F1EC],flags,flags
+st. helena,[U+1F1F8, U+1F1ED],flags,flags
+slovenia,[U+1F1F8, U+1F1EE],flags,flags
+svalbard ,[U+1F1F8, U+1F1EF],flags,flags
+slovakia,[U+1F1F8, U+1F1F0],flags,flags
+sierra leone,[U+1F1F8, U+1F1F1],flags,flags
+san marino,[U+1F1F8, U+1F1F2],flags,flags
+senegal,[U+1F1F8, U+1F1F3],flags,flags
+somalia,[U+1F1F8, U+1F1F4],flags,flags
+suriname,[U+1F1F8, U+1F1F7],flags,flags
+south sudan,[U+1F1F8, U+1F1F8],flags,flags
+sã£o tomã© ,[U+1F1F8, U+1F1F9],flags,flags
+el salvador,[U+1F1F8, U+1F1FB],flags,flags
+sint maarten,[U+1F1F8, U+1F1FD],flags,flags
+syria,[U+1F1F8, U+1F1FE],flags,flags
+swaziland,[U+1F1F8, U+1F1FF],flags,flags
+tristan da cunha,[U+1F1F9, U+1F1E6],flags,flags
+turks ,[U+1F1F9, U+1F1E8],flags,flags
+chad,[U+1F1F9, U+1F1E9],flags,flags
+french southern territories,[U+1F1F9, U+1F1EB],flags,flags
+togo,[U+1F1F9, U+1F1EC],flags,flags
+thailand,[U+1F1F9, U+1F1ED],flags,flags
+tajikistan,[U+1F1F9, U+1F1EF],flags,flags
+tokelau,[U+1F1F9, U+1F1F0],flags,flags
+timor-leste,[U+1F1F9, U+1F1F1],flags,flags
+turkmenistan,[U+1F1F9, U+1F1F2],flags,flags
+tunisia,[U+1F1F9, U+1F1F3],flags,flags
+tonga,[U+1F1F9, U+1F1F4],flags,flags
+turkey,[U+1F1F9, U+1F1F7],flags,flags
+trinidad ,[U+1F1F9, U+1F1F9],flags,flags
+tuvalu,[U+1F1F9, U+1F1FB],flags,flags
+taiwan,[U+1F1F9, U+1F1FC],flags,flags
+tanzania,[U+1F1F9, U+1F1FF],flags,flags
+ukraine,[U+1F1FA, U+1F1E6],flags,flags
+uganda,[U+1F1FA, U+1F1EC],flags,flags
+u.s. outlying islands,[U+1F1FA, U+1F1F2],flags,flags
+united states,[U+1F1FA, U+1F1F8],flags,flags
+uruguay,[U+1F1FA, U+1F1FE],flags,flags
+uzbekistan,[U+1F1FA, U+1F1FF],flags,flags
+vatican city,[U+1F1FB, U+1F1E6],flags,flags
+st. vincent ,[U+1F1FB, U+1F1E8],flags,flags
+venezuela,[U+1F1FB, U+1F1EA],flags,flags
+british virgin islands,[U+1F1FB, U+1F1EC],flags,flags
+u.s. virgin islands,[U+1F1FB, U+1F1EE],flags,flags
+vietnam,[U+1F1FB, U+1F1F3],flags,flags
+vanuatu,[U+1F1FB, U+1F1FA],flags,flags
+wallis ,[U+1F1FC, U+1F1EB],flags,flags
+samoa,[U+1F1FC, U+1F1F8],flags,flags
+kosovo,[U+1F1FD, U+1F1F0],flags,flags
+yemen,[U+1F1FE, U+1F1EA],flags,flags
+mayotte,[U+1F1FE, U+1F1F9],flags,flags
+south africa,[U+1F1FF, U+1F1E6],flags,flags
+zambia,[U+1F1FF, U+1F1F2],flags,flags
+zimbabwe,[U+1F1FF, U+1F1FC],flags,flags

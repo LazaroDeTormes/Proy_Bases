@@ -1,0 +1,37 @@
+person gesture
+plant flower
+dishware
+food sweet
+travel and places
+objects
+person role
+animal mammal
+flags
+monkey face
+food asian
+body
+animal reptile
+creature face
+person activity
+skin tone
+symbols
+face sick
+cat face
+face positive
+food prepared
+plant other
+face role
+animal amphibian
+animal marine
+face neutral
+drink
+emotion
+person
+animal bug
+activities
+food vegetable
+clothing
+face negative
+family
+food fruit
+animal bird
