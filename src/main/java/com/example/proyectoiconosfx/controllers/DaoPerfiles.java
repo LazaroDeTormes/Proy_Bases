@@ -2,6 +2,9 @@ package com.example.proyectoiconosfx.controllers;
 
 import com.example.proyectoiconosfx.HelloApplication;
 import com.example.proyectoiconosfx.models.Icono;
+import com.password4j.BcryptFunction;
+import com.password4j.Hash;
+import com.password4j.Password;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
@@ -39,6 +42,13 @@ public class DaoPerfiles {
         String busqueda = "select contrasenha from usuarios where nombre='"+nombre+"';";
         ResultSet rs;
         Statement stmt;
+
+        var encript = BcryptFunction.getInstance(12);
+
+        var result = encript.hash(password).getResult();
+
+
+        System.out.println(result);
         try{
             System.out.println(busqueda);
             stmt=con.createStatement();
@@ -47,9 +57,12 @@ public class DaoPerfiles {
                 resultado=rs.getString(1);
 
             }
+            var result2 = encript.check(resultado,result);
+            System.out.println(result2);
+
         if(resultado.equals("")) {
             status.setText("No existe el usuario");
-        }else if(resultado.equals(password)){
+        }else if(result2){
             status.setText("Bienvenido");
             valido=true;
 

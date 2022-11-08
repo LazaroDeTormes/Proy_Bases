@@ -6,6 +6,7 @@ module com.example.proyectoiconosfx {
     requires java.xml;
     requires com.fasterxml.jackson.dataformat.xml;
     requires java.sql;
+    requires password4j;
 
 
     opens com.example.proyectoiconosfx to javafx.fxml;
