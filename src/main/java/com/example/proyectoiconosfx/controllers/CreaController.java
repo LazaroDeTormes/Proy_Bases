@@ -55,8 +55,8 @@ public class CreaController {
 
             stage.setTitle("Iconos Fx");
             stage.setScene(scene);
-            stage.setMinWidth(740);
-            stage.setMinHeight(490);
+            stage.setMinWidth(40);
+            stage.setMinHeight(40);
             stage.show();
 
 
