@@ -57,7 +57,9 @@ public class DaoPerfiles {
                 resultado=rs.getString(1);
 
             }
-            var result2 = encript.check(resultado,result);
+            System.out.println(resultado);
+            System.out.println(result);
+            var result2 = encript.check(password,resultado);
             System.out.println(result2);
 
         if(resultado.equals("")) {
@@ -70,6 +72,75 @@ public class DaoPerfiles {
 
             status.setText("La contraseña es incorrecta");
         }
+        } catch (SQLException e) {
+            throw new RuntimeException(e);
+        }
+
+        return valido;
+
+    }
+
+
+
+
+
+    public boolean insertarUsuario(String nombre,String password, String password2){
+        boolean valido=false;
+        String resultado="";
+        String result;
+
+
+        String busqueda = "select nombre from usuarios where nombre='"+nombre+"';";
+
+
+
+        ResultSet rs;
+        Statement stmt;
+
+
+
+
+
+        try{
+            System.out.println(busqueda);
+            stmt=con.createStatement();
+            rs=stmt.executeQuery(busqueda);
+            while(rs.next()){
+                resultado=rs.getString(1);
+
+            }
+
+
+            if(resultado.equals("")) {
+
+                if (password.equals(password2)){
+                    var encript = BcryptFunction.getInstance(12);
+                    result = encript.hash(password).getResult();
+                    String insercion = "insert into usuarios (nombre, contrasenha) values ('"+nombre+"','"+result+"')";
+
+                    try{
+                        System.out.println(insercion);
+                        stmt=con.createStatement();
+                        int insert = stmt.executeUpdate(insercion);
+                        valido = true;
+
+
+                    }catch(Exception e){
+                        System.out.println("2    "+e);
+                    }
+
+                }else{
+                    System.out.println("Contraseñas no coincidentes");
+                }
+
+
+
+
+
+
+            }else{
+                System.out.println("Usuario ya existente");
+            }
         } catch (SQLException e) {
             throw new RuntimeException(e);
         }

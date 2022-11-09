@@ -5,7 +5,7 @@
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.text.*?>
 
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="208.0" prefWidth="242.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.proyectoiconosfx.controllers.LogginController">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="208.0" prefWidth="242.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.proyectoiconosfx.controllers.CreaController">
    <children>
       <VBox layoutY="-4.0" prefHeight="214.0" prefWidth="242.0">
          <children>
@@ -49,7 +49,7 @@
                   <Label />
                   <Label />
                   <Label text="Repitela:       " />
-                  <PasswordField fx:id="contraTexto1" />
+                  <PasswordField fx:id="contraTexto2" />
                </children>
                <VBox.margin>
                   <Insets left="10.0" right="10.0" />
@@ -57,7 +57,7 @@
             </HBox>
             <VBox alignment="CENTER" prefHeight="47.0" prefWidth="242.0">
                <children>
-                  <Button fx:id="aceptarBoton" alignment="CENTER" mnemonicParsing="false" onAction="#accionAceptar" text="Crear" />
+                  <Button fx:id="crearBoton" alignment="CENTER" mnemonicParsing="false" onAction="#accionCrear" text="Crear" />
                </children>
             </VBox>
          </children>
