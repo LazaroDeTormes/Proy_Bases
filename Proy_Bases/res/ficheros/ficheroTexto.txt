@@ -1,0 +1,107 @@
+monkey face,🐵,animal mammal,animals and nature
+monkey,🐒,animal mammal,animals and nature
+gorilla,🦍,animal mammal,animals and nature
+dog face,🐶,animal mammal,animals and nature
+dog,🐕,animal mammal,animals and nature
+poodle,🐩,animal mammal,animals and nature
+wolf face,🐺,animal mammal,animals and nature
+fox face,🦊,animal mammal,animals and nature
+cat face,🐱,animal mammal,animals and nature
+cat,🐈,animal mammal,animals and nature
+lion face,🦁,animal mammal,animals and nature
+tiger face,🐯,animal mammal,animals and nature
+tiger,🐅,animal mammal,animals and nature
+leopard,🐆,animal mammal,animals and nature
+horse face,🐴,animal mammal,animals and nature
+horse,🐎,animal mammal,animals and nature
+deer,🦌,animal mammal,animals and nature
+unicorn face,🦄,animal mammal,animals and nature
+cow face,🐮,animal mammal,animals and nature
+ox,🐂,animal mammal,animals and nature
+water buffalo,🐃,animal mammal,animals and nature
+cow,🐄,animal mammal,animals and nature
+pig face,🐷,animal mammal,animals and nature
+pig,🐖,animal mammal,animals and nature
+boar,🐗,animal mammal,animals and nature
+pig nose,🐽,animal mammal,animals and nature
+ram,🐏,animal mammal,animals and nature
+sheep,🐑,animal mammal,animals and nature
+goat,🐐,animal mammal,animals and nature
+dromedary camel ,🐪,animal mammal,animals and nature
+bactrian camel ,🐫,animal mammal,animals and nature
+elephant,🐘,animal mammal,animals and nature
+rhinoceros,🦏,animal mammal,animals and nature
+mouse face,🐭,animal mammal,animals and nature
+mouse,🐁,animal mammal,animals and nature
+rat,🐀,animal mammal,animals and nature
+hamster face,🐹,animal mammal,animals and nature
+rabbit face,🐰,animal mammal,animals and nature
+rabbit,🐇,animal mammal,animals and nature
+chipmunk,🐿,animal mammal,animals and nature
+bat,🦇,animal mammal,animals and nature
+bear face,🐻,animal mammal,animals and nature
+koala,🐨,animal mammal,animals and nature
+panda face,🐼,animal mammal,animals and nature
+paw prints,🐾,animal mammal,animals and nature
+turkey,🦃,animal bird,animals and nature
+chicken,🐔,animal bird,animals and nature
+rooster,🐓,animal bird,animals and nature
+hatching chick,🐣,animal bird,animals and nature
+baby chick,🐤,animal bird,animals and nature
+front-facing baby chick,🐥,animal bird,animals and nature
+bird,🐦,animal bird,animals and nature
+penguin,🐧,animal bird,animals and nature
+dove of peace ,🕊,animal bird,animals and nature
+eagle,🦅,animal bird,animals and nature
+duck,🦆,animal bird,animals and nature
+owl,🦉,animal bird,animals and nature
+frog face,🐸,animal amphibian,animals and nature
+crocodile,🐊,animal reptile,animals and nature
+turtle,🐢,animal reptile,animals and nature
+lizard,🦎,animal reptile,animals and nature
+snake,🐍,animal reptile,animals and nature
+dragon face,🐲,animal reptile,animals and nature
+dragon,🐉,animal reptile,animals and nature
+spouting whale,🐳,animal marine,animals and nature
+whale,🐋,animal marine,animals and nature
+dolphin,🐬,animal marine,animals and nature
+fish,🐟,animal marine,animals and nature
+tropical fish,🐠,animal marine,animals and nature
+blowfish,🐡,animal marine,animals and nature
+shark,🦈,animal marine,animals and nature
+octopus,🐙,animal marine,animals and nature
+spiral shell,🐚,animal marine,animals and nature
+crab,🦀,animal marine,animals and nature
+shrimp,🦐,animal marine,animals and nature
+squid,🦑,animal marine,animals and nature
+butterfly,🦋,animal bug,animals and nature
+snail,🐌,animal bug,animals and nature
+bug,🐛,animal bug,animals and nature
+ant,🐜,animal bug,animals and nature
+honeybee,🐝,animal bug,animals and nature
+lady beetle,🐞,animal bug,animals and nature
+spider,🕷,animal bug,animals and nature
+spider web,🕸,animal bug,animals and nature
+scorpion,🦂,animal bug,animals and nature
+bouquet,💐,plant flower,animals and nature
+cherry blossom,🌸,plant flower,animals and nature
+white flower,💮,plant flower,animals and nature
+rosette,🏵,plant flower,animals and nature
+rose,🌹,plant flower,animals and nature
+wilted flower,🥀,plant flower,animals and nature
+hibiscus,🌺,plant flower,animals and nature
+sunflower,🌻,plant flower,animals and nature
+blossom,🌼,plant flower,animals and nature
+tulip,🌷,plant flower,animals and nature
+seedling,🌱,plant other,animals and nature
+evergreen tree ,🌲,plant other,animals and nature
+deciduous tree,🌳,plant other,animals and nature
+palm tree,🌴,plant other,animals and nature
+cactus,🌵,plant other,animals and nature
+ear of rice ,🌾,plant other,animals and nature
+herb,🌿,plant other,animals and nature
+shamrock,☘,plant other,animals and nature
+four leaf clover,🍀,plant other,animals and nature
+maple leaf,🍁,plant other,animals and nature
+fallen leaf,🍂,plant other,animals and nature
+leaf fluttering in wind,🍃,plant other,animals and nature
